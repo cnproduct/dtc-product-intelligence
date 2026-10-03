@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "title": "DTC Cross-Border Multi-Platform Sourcing & Spy Radar Matrix",
+    "version": "1.0.0",
+    "updated_at": "2026-10-03",
+    "scope": "B2C Marketplaces & DTC Independent Stores (Shopify / TikTok Shop DTC)",
+    "description": "Cross-verification topology across 8 major data streams to identify scalable e-commerce winning products"
+  },
+  "platforms": [
+    {
+      "platform_id": "amazon",
+      "platform_name": "Amazon Global (US, EU, UK, JP)",
+      "platform_type": "B2C E-Commerce Marketplace Benchmark",
+      "monitored_lists": [
+        {
+          "list_name": "Best Sellers",
+          "frequency": "Hourly update",
+          "signal_value": "Proven market depth and total addressable volume (TAM)",
+          "dtc_relevance": "Benchmark for customer willingness to pay and core reviews critique"
+        },
+        {
+          "list_name": "Movers & Shakers",
+          "frequency": "24-hour velocity change",
+          "signal_value": "Sudden demand spikes (+500% to +5000% rank jump)",
+          "dtc_relevance": "Primary trigger for fast-turnaround 7d-14d independent site testing"
+        },
+        {
+          "list_name": "Hot New Releases",
+          "frequency": "Daily update",
+          "signal_value": "New entrants achieving rapid organic traction without years of reviews",
+          "dtc_relevance": "Reveals newly emerging form factors and packaging redesigns"
+        },
+        {
+          "list_name": "Most Wished For & Gift Ideas",
+          "frequency": "Weekly seasonal update",
+          "signal_value": "Unfulfilled customer intent and emotional gifting propensity",
+          "dtc_relevance": "Key source for Q4 holiday bundling and AOV booster offers"
+        }
+      ]
+    },
+    {
+      "platform_id": "temu",
+      "platform_name": "Temu (WhaleCo / PDD Holdings)",
+      "platform_type": "Ultra-Low-Cost Direct-from-Factory Marketplace",
+      "monitored_lists": [
+        {
+          "list_name": "Lightning Deals & Today's Picks",
+          "frequency": "Real-time updates",
+          "signal_value": "Maximum impulse conversion algorithms and extreme unit volume",
+          "dtc_relevance": "Identifies items with universal consumer appeal; DTC must avoid identical baseline items and offer differentiated packaging, bundles, or premium aesthetic variants"
+        },
+        {
+          "list_name": "5-Star Rated Movers",
+          "frequency": "Daily",
+          "signal_value": "High satisfaction, low return rate, mass-market problem solver",
+          "dtc_relevance": "Validates factory supply chain stability in Yiwu/Guangdong"
+        }
+      ]
+    },
+    {
+      "platform_id": "shein",
+      "platform_name": "SHEIN (Apparel, Beauty & Home Marketplace)",
+      "platform_type": "Fast-Fashion & Lifestyle Algorithm Platform",
+      "monitored_lists": [
+        {
+          "list_name": "Quick-Ship Bestsellers & Trending Searches",
+          "frequency": "Real-time algorithmic indexing",
+          "signal_value": "Micro-trends in colorways, aesthetics (Y2K, Quiet Luxury, Coquette, Clean Girl)",
+          "dtc_relevance": "Ideal for fast dropshipping and 14d-30d TikTok fashion & jewelry testing"
+        }
+      ]
+    },
+    {
+      "platform_id": "aliexpress",
+      "platform_name": "AliExpress (Choice & SuperDeals)",
+      "platform_type": "Cross-Border B2C & Dropshipping Origin Source",
+      "monitored_lists": [
+        {
+          "list_name": "SuperDeals & Weekly Ranking",
+          "frequency": "Weekly update",
+          "signal_value": "Wholesale dropshipping order counts from European/American merchants",
+          "dtc_relevance": "Gauge early European ad-testing volume before US market saturation"
+        }
+      ]
+    },
+    {
+      "platform_id": "dtc_spy_tools",
+      "platform_name": "DTC Ad Spy & Shopify Revenue Trackers (PiPiADS, Minea, ShopHunter, AdSpy, Dropship.io)",
+      "platform_type": "Independent Site Commercial Intelligence Software",
+      "monitored_lists": [
+        {
+          "list_name": "TikTok & Meta Winning Ad Creative Leaderboards",
+          "frequency": "Daily scraper",
+          "signal_value": "Ad impressions > 1,000,000, Ad run duration > 7 days, Like/Comment velocity > 5%",
+          "dtc_relevance": "Direct proof of profitable ROAS; shows exact landing page design, checkout upsells, and video hooks"
+        },
+        {
+          "list_name": "Shopify Top 1000 Stores Daily Revenue Velocity",
+          "frequency": "Daily API / telemetry",
+          "signal_value": "Single product stores scaling from $0 to $10,000/day in under 14 days",
+          "dtc_relevance": "Copywriting blueprints, guarantee badges, bundle offers (Buy 2 Get 1 Free, 40% Off)"
+        }
+      ]
+    },
+    {
+      "platform_id": "tiktok_shop",
+      "platform_name": "TikTok Shop & Social Video Commerce (FastMoss, Kalodata, #TikTokMadeMeBuyIt)",
+      "platform_type": "Short-Video & Live Commerce Engine",
+      "monitored_lists": [
+        {
+          "list_name": "Creator Affiliate GMV Velocity Rank",
+          "frequency": "Daily update",
+          "signal_value": "Top viral affiliate products driven by micro-influencer UGC videos",
+          "dtc_relevance": "Demonstration virality, 3-second hook potential, ASMR tactile satisfaction"
+        }
+      ]
+    },
+    {
+      "platform_id": "google_trends",
+      "platform_name": "Google Trends (Search Intent & Rising Queries)",
+      "platform_type": "Search Engine Macro Demand & Organic Interest",
+      "monitored_lists": [
+        {
+          "list_name": "Breakout Queries (+5000% search surge)",
+          "frequency": "24h - 7d real-time",
+          "signal_value": "Unprompted high-intent buying searches triggered by news, seasonal shifts, or cultural moments",
+          "dtc_relevance": "SEO keyword targeting, Google Shopping Ads, and early product cycle capture"
+        },
+        {
+          "list_name": "Seasonal Trajectory Curves (5-Year Cycle)",
+          "frequency": "Monthly historical analysis",
+          "signal_value": "Predictable annual peaks (e.g. November Black Friday, January New Year Fitness, May Mother's Day)",
+          "dtc_relevance": "Validates 60-day and 90-day procurement lead times for ocean container shipments"
+        }
+      ]
+    }
+  ]
+}

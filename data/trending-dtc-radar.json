@@ -1,0 +1,1518 @@
+{
+  "metadata": {
+    "title": "DTC Cross-Border Winning Products Radar (50 Hero SKUs across 5 Horizons)",
+    "version": "1.0.0",
+    "updated_at": "2026-10-03",
+    "horizons": ["7d", "14d", "30d", "60d", "90d"],
+    "categories": [
+      "Home & Kitchen Essentials",
+      "Beauty, Skincare & Grooming",
+      "Electronics, Gadgets & EDC",
+      "Apparel, Shapewear & Accessories",
+      "Pet Supplies & Novelty",
+      "Outdoor, Sports & Fitness"
+    ]
+  },
+  "products": [
+    {
+      "id": "DTC-7D-01",
+      "horizon": "7d",
+      "horizon_label": "Next 7 Days (Flash Viral / Dropship)",
+      "sku_name": "Zero-Gravity Kinetic Magnetic Sand Hourglass & Stress Reliever",
+      "chinese_name": "磁吸流沙反重力动态沙漏摆件 (解压治愈系)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 93.5,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#KineticSand #DeskToy over 140M views; ASMR sand pattern creation drives high watch-time",
+        "google_trends": "+450% 7-day breakout search 'magnetic sand hourglass'",
+        "pipiads_minea": "3 Shopify stores scaled to $15k/day in past 5 days with 12 active TikTok ad creatives",
+        "amazon_temu": "Amazon Movers & Shakers #12 in Home D\u00e9cor, Temu 4.8 stars with 20k units sold"
+      },
+      "economics": {
+        "fob_usd": 3.20,
+        "dtc_retail_usd": 29.99,
+        "margin_multiplier": "9.3x",
+        "breakeven_roas": 1.45,
+        "recommended_bundle": "Buy 2 Save 20% (Gift Pack for Him & Her) at $47.99"
+      },
+      "logistics": {
+        "weight_grams": 240,
+        "box_cm": "18 x 12 x 5",
+        "shipping_mode": "Air Express Direct Packet (6-9 days delivery)"
+      },
+      "ad_creative_hook": "3-second hook: Magnet touches the base, and black iron sand instantly blooms like an alien flower in high-definition ASMR sound.",
+      "target_audience": "Office professionals, tech workers, gift seekers for birthdays & desk upgrades."
+    },
+    {
+      "id": "DTC-7D-02",
+      "horizon": "7d",
+      "horizon_label": "Next 7 Days (Flash Viral / Dropship)",
+      "sku_name": "Micro-Current Heated EMS Neck & Jawline Sculptor with LED Light",
+      "chinese_name": "微电流温热双下巴提拉紧致下颌线美容仪",
+      "category": "Beauty, Skincare & Grooming",
+      "dvi_score": 94.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#JawlineContour 85M views, viral 'snatched jawline' split-screen before/after tests",
+        "google_trends": "+380% breakout 'neck contouring device'",
+        "pipiads_minea": "Top TikTok Shop trending beauty tool in US & UK, ROAS hovering at 2.4 - 2.8",
+        "shein_aliexpress": "SHEIN Beauty trending gadget, AliExpress SuperDeals top reorder item"
+      },
+      "economics": {
+        "fob_usd": 4.10,
+        "dtc_retail_usd": 39.99,
+        "margin_multiplier": "9.7x",
+        "breakeven_roas": 1.38,
+        "recommended_bundle": "Device + Firming Peptide Serum for $54.99 (Upsell AOV booster)"
+      },
+      "logistics": {
+        "weight_grams": 180,
+        "box_cm": "16 x 10 x 4",
+        "shipping_mode": "Air Packet Direct (Contains small built-in lithium battery, UN38.3 compliant)"
+      },
+      "ad_creative_hook": "Split screen: Right side of face treated for 3 minutes visibly lifted vs left side sluggish cheek. 'Did I just cancel my $200 spa appointment?'",
+      "target_audience": "Women 22-45, bridal prep, anti-aging skincare enthusiasts."
+    },
+    {
+      "id": "DTC-7D-03",
+      "horizon": "7d",
+      "horizon_label": "Next 7 Days (Flash Viral / Dropship)",
+      "sku_name": "Magnetic Rotating MagSafe Car Mount with Cryo-Cooling Fan",
+      "chinese_name": "磁吸无线充半导体半导体冰晶制冷车载支架",
+      "category": "Electronics, Gadgets & EDC",
+      "dvi_score": 91.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "Tech TikTokers testing iPhone thermal throttling in hot cars",
+        "google_trends": "+310% search surge 'cooling car phone mount'",
+        "pipiads_minea": "Scaling on Meta Reels and TikTok Ads with high conversion among Uber/Lyft drivers",
+        "amazon_temu": "Amazon New Releases #4 in Car Accessories, Temu high volume"
+      },
+      "economics": {
+        "fob_usd": 5.40,
+        "dtc_retail_usd": 42.99,
+        "margin_multiplier": "7.9x",
+        "breakeven_roas": 1.48,
+        "recommended_bundle": "Mount + 65W Fast Car Charger adapter for $54.99"
+      },
+      "logistics": {
+        "weight_grams": 210,
+        "box_cm": "14 x 10 x 6",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "Thermal imaging camera shows phone dropping from 45\u00b0C to 18\u00b0C in 20 seconds while gaming/navigating in sunlight.",
+      "target_audience": "Commuters, rideshare drivers, iPhone 14/15/16/17 MagSafe owners."
+    },
+    {
+      "id": "DTC-7D-04",
+      "horizon": "7d",
+      "horizon_label": "Next 7 Days (Flash Viral / Dropship)",
+      "sku_name": "Electrostatic Double-Sided Pet Hair & Lint Cyclone Remover",
+      "chinese_name": "双向静电自清洁推拉式宠物吸毛神器",
+      "category": "Pet Supplies & Novelty",
+      "dvi_score": 90.5,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#PetHairHack 310M views; satisfying one-swipe sofa cleaning demo",
+        "google_trends": "+280% query spike 'best reusable pet hair remover'",
+        "pipiads_minea": "Evergreen winner spiking as autumn pet shedding season peaks in North America",
+        "amazon_temu": "Amazon Best Seller #1 in Pet Hair Removers (>40k monthly sales)"
+      },
+      "economics": {
+        "fob_usd": 1.65,
+        "dtc_retail_usd": 24.99,
+        "margin_multiplier": "15.1x",
+        "breakeven_roas": 1.25,
+        "recommended_bundle": "Buy 2 Get 1 Free (1 for Home, 1 for Car, 1 for Bed)"
+      },
+      "logistics": {
+        "weight_grams": 160,
+        "box_cm": "20 x 8 x 6",
+        "shipping_mode": "Air Packet (Ultra-dense shipping, non-electronic)"
+      },
+      "ad_creative_hook": "One swipe over a black velvet sofa covered in white husky fur: completely clean in 1 second. Clean compartment emptied with a satisfying click.",
+      "target_audience": "Dog & cat owners, clean-freaks, multi-pet households."
+    },
+    {
+      "id": "DTC-7D-05",
+      "horizon": "7d",
+      "horizon_label": "Next 7 Days (Flash Viral / Dropship)",
+      "sku_name": "Self-Cleaning Electric Protein Shaker Bottle with Vortex Motor",
+      "chinese_name": "磁力涡轮自动搅拌电动蛋白粉摇摇杯",
+      "category": "Outdoor, Sports & Fitness",
+      "dvi_score": 88.5,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#GymTok #ProteinShake 95M views; solves clumped powder frustration",
+        "google_trends": "+210% rising search 'electric shaker bottle usb c'",
+        "pipiads_minea": "Multiple Shopify gym stores running viral UGC comparisons vs traditional wire-ball shakers",
+        "amazon_temu": "Amazon Movers in Sports Nutrition Shakers #8"
+      },
+      "economics": {
+        "fob_usd": 3.80,
+        "dtc_retail_usd": 34.99,
+        "margin_multiplier": "9.2x",
+        "breakeven_roas": 1.40,
+        "recommended_bundle": "Shaker + Powder Storage Pods at $42.99"
+      },
+      "logistics": {
+        "weight_grams": 290,
+        "box_cm": "22 x 10 x 10",
+        "shipping_mode": "Air Packet (Food grade Tritan BPA-free)"
+      },
+      "ad_creative_hook": "Sound comparison: Annoying loud metal ball clanking in gym vs silent hypnotic vortex spinning protein powder into silky liquid in 5 seconds.",
+      "target_audience": "Gym-goers, fitness enthusiasts, busy office breakfast drinkers."
+    },
+    {
+      "id": "DTC-7D-06",
+      "horizon": "7d",
+      "horizon_label": "Next 7 Days (Flash Viral / Dropship)",
+      "sku_name": "Invisible Seamless Lift & Sculpt Wireless Push-Up Bra",
+      "chinese_name": "隐形无痕果冻条软支撑大胸显小聚拢内衣",
+      "category": "Apparel, Shapewear & Accessories",
+      "dvi_score": 89.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "shein_aliexpress": "SHEIN Top 3 Underwear search; viral on Lemon8 and TikTok",
+        "google_trends": "+260% 'wireless lift bra no show'",
+        "pipiads_minea": "DTC brand Skims dupe campaigns generating 30k+ clicks/day",
+        "amazon_temu": "Amazon Hot New Releases in Everyday Bras"
+      },
+      "economics": {
+        "fob_usd": 2.60,
+        "dtc_retail_usd": 29.99,
+        "margin_multiplier": "11.5x",
+        "breakeven_roas": 1.30,
+        "recommended_bundle": "3-Pack Value Bundle (Nude, Black, Mocha) at $59.99"
+      },
+      "logistics": {
+        "weight_grams": 95,
+        "box_cm": "20 x 15 x 3",
+        "shipping_mode": "Ultra-light flat mailer envelope (Lowest freight tier)"
+      },
+      "ad_creative_hook": "T-shirt pull test: zero bulges, zero underwire marks, hands lifting breasts with instant 2-cup cleavage without pain.",
+      "target_audience": "Women seeking comfort, post-partum, remote workers, dress wearers."
+    },
+    {
+      "id": "DTC-7D-07",
+      "horizon": "7d",
+      "horizon_label": "Next 7 Days (Flash Viral / Dropship)",
+      "sku_name": "Acoustic Noise-Filtering Sleep Earplugs with Ergonomic Silicone Ring",
+      "chinese_name": "环形微孔降噪静音睡眠耳塞 (Loop竞品型)",
+      "category": "Beauty, Skincare & Grooming",
+      "dvi_score": 89.5,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#LoopEarplugs has 280M views; huge demand for stylish sensory/sleep earplugs",
+        "google_trends": "+340% query spike 'aesthetic sleep earplugs for snoring'",
+        "pipiads_minea": "DTC stores achieving 35% net profit margin on Meta ad traffic",
+        "amazon_temu": "Amazon Best Seller #5 in Earplugs & Sleep Aids"
+      },
+      "economics": {
+        "fob_usd": 0.85,
+        "dtc_retail_usd": 22.99,
+        "margin_multiplier": "27.0x",
+        "breakeven_roas": 1.20,
+        "recommended_bundle": "Sleep Pair + Focus/Concert Pair with keychain case for $34.99"
+      },
+      "logistics": {
+        "weight_grams": 45,
+        "box_cm": "8 x 8 x 3",
+        "shipping_mode": "Ultra-compact gift case, air packet (<$1.80 worldwide shipping)"
+      },
+      "ad_creative_hook": "Loud snoring partner visual with decibel meter hitting 85dB. Slip in ergonomic ring plug: ambient audio cuts to soothing silence instantly.",
+      "target_audience": "Light sleepers, partners of snorers, students, neurodivergent sensory relief."
+    },
+    {
+      "id": "DTC-7D-08",
+      "horizon": "7d",
+      "horizon_label": "Next 7 Days (Flash Viral / Dropship)",
+      "sku_name": "Automatic Multi-Angle 360 Laser Toy for Bored Indoor Cats",
+      "chinese_name": "智能全自动多角度变频逗猫激光仪",
+      "category": "Pet Supplies & Novelty",
+      "dvi_score": 88.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#CatToys 2.1B views; funny videos of cats chasing erratic red dots",
+        "google_trends": "+190% 'automatic cat laser pointer'",
+        "pipiads_minea": "Consistent $8k/day volume on single-product dropship stores",
+        "amazon_temu": "Amazon Best Seller in Interactive Cat Toys"
+      },
+      "economics": {
+        "fob_usd": 2.90,
+        "dtc_retail_usd": 28.99,
+        "margin_multiplier": "10.0x",
+        "breakeven_roas": 1.35,
+        "recommended_bundle": "Buy 1 Laser Toy + Get 3 Feather Refills at $34.99"
+      },
+      "logistics": {
+        "weight_grams": 190,
+        "box_cm": "12 x 10 x 8",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "Owner leaves for work in the morning; cat stares out window sad. Robot activates on timer: cat does acrobatics chasing laser dot all over living room.",
+      "target_audience": "Busy cat owners working long hours, multi-cat apartments."
+    },
+    {
+      "id": "DTC-7D-09",
+      "horizon": "7d",
+      "horizon_label": "Next 7 Days (Flash Viral / Dropship)",
+      "sku_name": "Precision Titanium 8-in-1 Multi-Tool EDC Pocket Prybar with Tritium Slot",
+      "chinese_name": "TC4钛合金多功能EDC便携开箱撬棍工具钥匙扣",
+      "category": "Electronics, Gadgets & EDC",
+      "dvi_score": 87.5,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#EDCGear 800M views; satisfying unboxing & unbolting demos",
+        "google_trends": "+180% 'titanium edc pry bar'",
+        "pipiads_minea": "Targeting male 25-50 demo with high AOV impulse sales on Facebook",
+        "amazon_temu": "Amazon Movers in Hand Multi-tools"
+      },
+      "economics": {
+        "fob_usd": 3.60,
+        "dtc_retail_usd": 36.99,
+        "margin_multiplier": "10.2x",
+        "breakeven_roas": 1.35,
+        "recommended_bundle": "Pry Bar + Paracord Lanyard & Titanium Bead at $44.99"
+      },
+      "logistics": {
+        "weight_grams": 85,
+        "box_cm": "12 x 5 x 2",
+        "shipping_mode": "Compact tin box air packet"
+      },
+      "ad_creative_hook": "Struggling to pry open rusty paint can with key (bends key). Pulls out pocket titanium prybar: pops lid off effortlessly, opens Amazon package, pops bottle cap.",
+      "target_audience": "EDC enthusiasts, survivalists, mechanics, outdoor men."
+    },
+    {
+      "id": "DTC-7D-10",
+      "horizon": "7d",
+      "horizon_label": "Next 7 Days (Flash Viral / Dropship)",
+      "sku_name": "Cordless Electric Precision Spin Scrubber with Extension Arm",
+      "chinese_name": "便携多功能电动清洁刷卫浴厨房旋转擦地神器",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 91.5,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#CleanTok 120B views; grout grime disappearing in 3 seconds",
+        "google_trends": "+390% 'electric spin scrubber for shower'",
+        "pipiads_minea": "Top 10 highest-spend e-commerce ad creative across US Meta platforms",
+        "amazon_temu": "Amazon Best Seller #1 in Household Cleaning Brushes"
+      },
+      "economics": {
+        "fob_usd": 6.80,
+        "dtc_retail_usd": 49.99,
+        "margin_multiplier": "7.3x",
+        "breakeven_roas": 1.45,
+        "recommended_bundle": "Scrubber + 7 Specialty Brush Heads for $59.99"
+      },
+      "logistics": {
+        "weight_grams": 680,
+        "box_cm": "35 x 12 x 10",
+        "shipping_mode": "Air Express Packet / Fast 3PL Fulfillment"
+      },
+      "ad_creative_hook": "Back pain visual: mom bending over scrubbing black moldy shower grout with toothbrush. Switch to spin scrubber standing tall: mold vanishes in seconds.",
+      "target_audience": "Homeowners, renters moving out (cleaning bond refund), seniors, CleanTok lovers."
+    },
+    {
+      "id": "DTC-14D-01",
+      "horizon": "14d",
+      "horizon_label": "Next 14 Days (Short-Term Social Viral)",
+      "sku_name": "Hydro-Dermabrasion Vacuum Blackhead Extractor & Pore Infuser",
+      "chinese_name": "水循环小气泡吸黑头嫩肤清洁仪",
+      "category": "Beauty, Skincare & Grooming",
+      "dvi_score": 92.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "Gunk-tank reveal videos consistently crossing 2M+ views on TikTok",
+        "google_trends": "+330% breakout 'hydrodermabrasion at home'",
+        "pipiads_minea": "Scaling rapidly on UK, Australia, and Germany TikTok Shop ads",
+        "amazon_temu": "Amazon Movers in Facial Cleansing Devices"
+      },
+      "economics": {
+        "fob_usd": 4.80,
+        "dtc_retail_usd": 45.99,
+        "margin_multiplier": "9.5x",
+        "breakeven_roas": 1.38,
+        "recommended_bundle": "Device + 4 Replacement Nozzles + BHA Purifying Solution at $59.99"
+      },
+      "logistics": {
+        "weight_grams": 260,
+        "box_cm": "20 x 10 x 5",
+        "shipping_mode": "Air Packet Direct (Lithium battery certified)"
+      },
+      "ad_creative_hook": "Gross-yet-satisfying zoom: clear tank fills with cloudy yellowish sebum and gunk sucked out of strawberry nose in 30 seconds.",
+      "target_audience": "Teens, young adults with acne/oily skin, facial skincare enthusiasts."
+    },
+    {
+      "id": "DTC-14D-02",
+      "horizon": "14d",
+      "horizon_label": "Next 14 Days (Short-Term Social Viral)",
+      "sku_name": "High-Pressure Vortex Hydrotherapy Showerhead with Vitamin C Filter",
+      "chinese_name": "增压螺旋水流过滤花洒 (带维C除氯滤芯)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 91.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#FilteredShowerhead 180M views; water clarity test and hair health angle",
+        "google_trends": "+290% 'filtered shower head for hard water'",
+        "pipiads_minea": "DTC brands like Jolie/Canopy generating millions in ARR on subscription filter models",
+        "amazon_temu": "Amazon Best Seller in Showerheads"
+      },
+      "economics": {
+        "fob_usd": 2.80,
+        "dtc_retail_usd": 34.99,
+        "margin_multiplier": "12.5x",
+        "breakeven_roas": 1.28,
+        "recommended_bundle": "Showerhead + 1 Year Supply (4 replacement filter cartridges) at $49.99"
+      },
+      "logistics": {
+        "weight_grams": 250,
+        "box_cm": "26 x 8 x 6",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "'The water you shower with is ruining your hair.' Dirty sediment filter cut open side-by-side with silky vortex propeller mist on skin.",
+      "target_audience": "Women suffering from dry scalp/acne, city apartment dwellers with hard water."
+    },
+    {
+      "id": "DTC-14D-03",
+      "horizon": "14d",
+      "horizon_label": "Next 14 Days (Short-Term Social Viral)",
+      "sku_name": "Zero-Bounce Running Belt Waist Pouch with Hydration Flask Holster",
+      "chinese_name": "超薄贴身隐形防晃动跑步水壶腰包",
+      "category": "Outdoor, Sports & Fitness",
+      "dvi_score": 89.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#RunningTok 4.5B views; marathon runners testing bounce with iPhone 16 Pro Max",
+        "google_trends": "+220% 'running belt no bounce'",
+        "pipiads_minea": "Active Facebook ad campaigns targeting fall 5K/10K/half-marathon runners",
+        "amazon_temu": "Amazon Best Seller in Running Waist Packs"
+      },
+      "economics": {
+        "fob_usd": 1.90,
+        "dtc_retail_usd": 24.99,
+        "margin_multiplier": "13.1x",
+        "breakeven_roas": 1.26,
+        "recommended_bundle": "Running Belt + 250ml Collapsible TPU Soft Flask at $32.99"
+      },
+      "logistics": {
+        "weight_grams": 80,
+        "box_cm": "15 x 10 x 2",
+        "shipping_mode": "Flat polybag envelope (Extremely cheap air shipping)"
+      },
+      "ad_creative_hook": "Runner sprinting on treadmill: phone bounces violently out of pocket vs tucked into flat waistband with zero shake.",
+      "target_audience": "Runners, walkers, dog walkers, amusement park visitors."
+    },
+    {
+      "id": "DTC-14D-04",
+      "horizon": "14d",
+      "horizon_label": "Next 14 Days (Short-Term Social Viral)",
+      "sku_name": "Foldable Silicone Electric Travel Kettle with Universal Dual Voltage",
+      "chinese_name": "食品级折叠便携式电热水壶 (出差出境双电压)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 88.5,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#TravelHacks 350M views; hotel coffee pot horror stories",
+        "google_trends": "+240% 'portable collapsible travel kettle'",
+        "pipiads_minea": "Travel niche Shopify stores scaling ad campaigns before holiday trip season",
+        "amazon_temu": "Amazon Movers in Travel Appliances"
+      },
+      "economics": {
+        "fob_usd": 4.50,
+        "dtc_retail_usd": 39.99,
+        "margin_multiplier": "8.8x",
+        "breakeven_roas": 1.42,
+        "recommended_bundle": "Kettle + 2 Collapsible Silicone Mugs + Pouch at $49.99"
+      },
+      "logistics": {
+        "weight_grams": 420,
+        "box_cm": "16 x 16 x 10",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "'Did you know flight attendants never use hotel room coffee makers?' Disgusted reaction turns to pulling out palm-sized folding kettle and boiling clean water in 4 mins.",
+      "target_audience": "Business travelers, digital nomads, parents traveling with infant formula."
+    },
+    {
+      "id": "DTC-14D-05",
+      "horizon": "14d",
+      "horizon_label": "Next 14 Days (Short-Term Social Viral)",
+      "sku_name": "Anti-Theft Hidden Crossbody Chest Holster Sling Bag",
+      "chinese_name": "超薄隐形战术防盗腋下枪包斜挎包",
+      "category": "Apparel, Shapewear & Accessories",
+      "dvi_score": 90.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#TravelSafety #PickpocketProof 210M views in European tourism hubs",
+        "google_trends": "+310% 'anti pickpocket travel bag for europe'",
+        "pipiads_minea": "High spend on Meta Ads targeting US tourists traveling to Rome, Paris, Barcelona",
+        "amazon_temu": "Amazon Best Seller in Travel Security Accessories"
+      },
+      "economics": {
+        "fob_usd": 2.70,
+        "dtc_retail_usd": 32.99,
+        "margin_multiplier": "12.2x",
+        "breakeven_roas": 1.29,
+        "recommended_bundle": "Right-Hand + Left-Hand Pack (His & Hers) for $52.99"
+      },
+      "logistics": {
+        "weight_grams": 175,
+        "box_cm": "25 x 18 x 2",
+        "shipping_mode": "Ultralight flat mailer"
+      },
+      "ad_creative_hook": "Street pickpocket attempts to reach tourist's backpack in crowded subway. Camera pans inside jacket: passport, phone, and wallet are invisibly flush against chest.",
+      "target_audience": "Tourists, commuters, festival-goers, minimalist carry fans."
+    },
+    {
+      "id": "DTC-14D-06",
+      "horizon": "14d",
+      "horizon_label": "Next 14 Days (Short-Term Social Viral)",
+      "sku_name": "LED Lighted Cordless Dog Nail Grinder with Whisper-Quiet Motor",
+      "chinese_name": "低噪静音带LED照明电动宠物磨甲器",
+      "category": "Pet Supplies & Novelty",
+      "dvi_score": 88.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#DogGrooming 1.8B views; anxiety-free nail trimming demos",
+        "google_trends": "+210% 'dog nail grinder quiet with light'",
+        "pipiads_minea": "Pet DTC brands running high-converting UGC testimonials",
+        "amazon_temu": "Amazon Best Seller in Dog Nail Care"
+      },
+      "economics": {
+        "fob_usd": 3.40,
+        "dtc_retail_usd": 29.99,
+        "margin_multiplier": "8.8x",
+        "breakeven_roas": 1.41,
+        "recommended_bundle": "Nail Grinder + Paw Balm Stick at $38.99"
+      },
+      "logistics": {
+        "weight_grams": 190,
+        "box_cm": "18 x 7 x 4",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "Terrified dog shaking at sound of traditional nail clippers (blood quick cut risk). Switch to silent LED grinder: dual LED clearly highlights the pink quick, dog sleeps peacefully.",
+      "target_audience": "Pet owners terrified of cutting dog's quick, golden retriever/doodle owners."
+    },
+    {
+      "id": "DTC-14D-07",
+      "horizon": "14d",
+      "horizon_label": "Next 14 Days (Short-Term Social Viral)",
+      "sku_name": "Magnetic Fluid MagSafe Ring Grip & Desktop Stand with 360 Rotation",
+      "chinese_name": "磁吸金属双向可折叠360度手机支架指环扣",
+      "category": "Electronics, Gadgets & EDC",
+      "dvi_score": 87.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "shein_aliexpress": "SHEIN Gadgets top selling mobile ring holder",
+        "google_trends": "+190% 'magsafe phone grip ring stand'",
+        "pipiads_minea": "DTC accessory shops bundling with clear MagSafe phone cases",
+        "amazon_temu": "Amazon Hot New Releases in Cell Phone Grips"
+      },
+      "economics": {
+        "fob_usd": 1.10,
+        "dtc_retail_usd": 19.99,
+        "margin_multiplier": "18.1x",
+        "breakeven_roas": 1.22,
+        "recommended_bundle": "Buy 2 Get 1 Free (Mix & Match Titanium/Midnight/Gold)"
+      },
+      "logistics": {
+        "weight_grams": 45,
+        "box_cm": "8 x 8 x 1.5",
+        "shipping_mode": "Ultra-thin bubble envelope"
+      },
+      "ad_creative_hook": "Heavy phone dropped on face in bed (relatable meme). Slaps ultra-strong magnetic ring on: hands-free horizontal movie mode, vertical TikTok scrolling, sticks to gym fridge.",
+      "target_audience": "Smartphone creators, gym self-recording, general mobile users."
+    },
+    {
+      "id": "DTC-14D-08",
+      "horizon": "14d",
+      "horizon_label": "Next 14 Days (Short-Term Social Viral)",
+      "sku_name": "Adjustable Memory Foam Ergonomic Cervical Traction Pillow",
+      "chinese_name": "人体工学记忆棉反向牵引颈椎枕 (缓解颈背酸痛)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 90.5,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#NeckPainRelief 890M views; physical therapist endorsement videos",
+        "google_trends": "+280% 'orthopedic pillow for side and back sleepers'",
+        "pipiads_minea": "DTC brands like Derila generating tens of thousands of orders per month",
+        "amazon_temu": "Amazon Best Seller in Neck & Cervical Pillows"
+      },
+      "economics": {
+        "fob_usd": 5.20,
+        "dtc_retail_usd": 49.99,
+        "margin_multiplier": "9.6x",
+        "breakeven_roas": 1.35,
+        "recommended_bundle": "Pillow + Cooling Silk Pillowcase for $64.99"
+      },
+      "logistics": {
+        "weight_grams": 750,
+        "box_cm": "36 x 15 x 15 (Vacuum Compressed Roll)",
+        "shipping_mode": "Vacuum rolled in sealed polybag (Compresses volume by 70%)"
+      },
+      "ad_creative_hook": "X-ray graphic of spine bent painfully on regular flat pillow vs neutral ergonomic alignment on butterfly contour pillow. 'Woke up with zero neck stiffness for the first time in 5 years.'",
+      "target_audience": "Desk workers, gamers, sufferers of tech-neck, middle-aged adults."
+    },
+    {
+      "id": "DTC-14D-09",
+      "horizon": "14d",
+      "horizon_label": "Next 14 Days (Short-Term Social Viral)",
+      "sku_name": "Ultrasonic Ionic Electric Toothbrush with Built-in Camera & App",
+      "chinese_name": "智能高清可视超声波洁牙仪 (去牙结石/茶渍烟渍)",
+      "category": "Beauty, Skincare & Grooming",
+      "dvi_score": 89.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#DentalCalculus 340M views; satisfying dental plaque removal videos",
+        "google_trends": "+250% 'ultrasonic tooth cleaner with camera'",
+        "pipiads_minea": "High conversion on Snapchat and TikTok ad networks",
+        "amazon_temu": "Amazon Movers in Dental Hygiene Products"
+      },
+      "economics": {
+        "fob_usd": 5.80,
+        "dtc_retail_usd": 49.99,
+        "margin_multiplier": "8.6x",
+        "breakeven_roas": 1.42,
+        "recommended_bundle": "Cleaner + 3 Medical Steel Tips + Mirror Set at $59.99"
+      },
+      "logistics": {
+        "weight_grams": 160,
+        "box_cm": "19 x 7 x 4",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "Macro phone camera feed reveals yellow dental tartar behind bottom front teeth. Device touches tooth: ultrasonic vibration pops calculus off clean in 1 tap without hurting gums.",
+      "target_audience": "Coffee/tea drinkers, smokers, people avoiding expensive dental hygiene fees."
+    },
+    {
+      "id": "DTC-14D-10",
+      "horizon": "14d",
+      "horizon_label": "Next 14 Days (Short-Term Social Viral)",
+      "sku_name": "Double-Wall Insulated Stainless Steel Tumbler with Built-in Straw Cap (40oz)",
+      "chinese_name": "40oz 不锈钢真空保温保冷吸管汽车杯 (Stanley同款型)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 88.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#WaterTok 2.4B views; customized colorways, charms, boot accessories",
+        "google_trends": "+190% 'leakproof 40oz tumbler with handle'",
+        "pipiads_minea": "DTC accessory stores printing custom engravings and silicone boots",
+        "amazon_temu": "Amazon Best Seller #1 in Insulated Tumblers"
+      },
+      "economics": {
+        "fob_usd": 3.80,
+        "dtc_retail_usd": 29.99,
+        "margin_multiplier": "7.9x",
+        "breakeven_roas": 1.45,
+        "recommended_bundle": "Tumbler + Silicone Bumper Boot + Straw Cover Charms at $39.99"
+      },
+      "logistics": {
+        "weight_grams": 540,
+        "box_cm": "28 x 14 x 10",
+        "shipping_mode": "Standard Air Mailer / Local Warehouse Fulfillment"
+      },
+      "ad_creative_hook": "Car cup-holder test: fits seamlessly in narrow car console. Tipped upside down: 100% leakproof lock, ice remains solid after 24 hours.",
+      "target_audience": "College students, gym attendees, busy moms, nurse/healthcare workers."
+    },
+    {
+      "id": "DTC-30D-01",
+      "horizon": "30d",
+      "horizon_label": "Next 30 Days (Monthly Mainstay / Air Restock)",
+      "sku_name": "Thermal Ultrasonic Essential Oil Flame Aroma Diffuser & Nightlight",
+      "chinese_name": "逼真火焰特效超声波香薰加湿器",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 93.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#FlameDiffuser 120M views; cozy room aesthetics for autumn/winter",
+        "google_trends": "+410% 30-day rise 'flame humidifier aroma diffuser'",
+        "pipiads_minea": "Top Q4 gift ad performer across UK, US, Canada, France",
+        "amazon_temu": "Amazon Movers #3 in Aromatherapy Diffusers"
+      },
+      "economics": {
+        "fob_usd": 3.90,
+        "dtc_retail_usd": 39.99,
+        "margin_multiplier": "10.2x",
+        "breakeven_roas": 1.35,
+        "recommended_bundle": "Diffuser + 3-Pack Organic Essential Oils (Lavender, Eucalyptus, Vanilla) at $54.99"
+      },
+      "logistics": {
+        "weight_grams": 320,
+        "box_cm": "18 x 11 x 8",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "Lights turned off in bedroom: warm orange cold mist illuminates like a roaring cozy fireplace. Drops of lavender oil added with relaxing lofi music.",
+      "target_audience": "Room d\u00e9cor lovers, cozy aesthetic seekers, holiday gift shoppers."
+    },
+    {
+      "id": "DTC-30D-02",
+      "horizon": "30d",
+      "horizon_label": "Next 30 Days (Monthly Mainstay / Air Restock)",
+      "sku_name": "Seamless All-Day Compression Body Sculpting Thong Bodysuit",
+      "chinese_name": "无痕收腹提臀紧身塑形连体衣 (大胸显瘦塑身衣)",
+      "category": "Apparel, Shapewear & Accessories",
+      "dvi_score": 92.5,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "shein_aliexpress": "SHEIN Shapewear category bestseller; massive organic Reddit buzz",
+        "google_trends": "+360% 'seamless shaping bodysuit under dress'",
+        "pipiads_minea": "DTC brands like Shapermint/FeelinGirl scaling $50k+/day budgets",
+        "amazon_temu": "Amazon Best Seller #1 in Women's Shapewear Bodysuits"
+      },
+      "economics": {
+        "fob_usd": 3.10,
+        "dtc_retail_usd": 38.99,
+        "margin_multiplier": "12.5x",
+        "breakeven_roas": 1.28,
+        "recommended_bundle": "Buy 2 Get 20% Off (Black + Mocha Taupe) for $62.99"
+      },
+      "logistics": {
+        "weight_grams": 130,
+        "box_cm": "20 x 14 x 2",
+        "shipping_mode": "Polybag flat mailer (Maximum shipping profitability)"
+      },
+      "ad_creative_hook": "Woman puts on tight bodycon dress: shows tummy bulge. Steps into shapewear bodysuit and pulls dress back on: waist looks 3 inches smaller, gasps in mirror.",
+      "target_audience": "Women attending autumn/winter events, brides, corporate dressers."
+    },
+    {
+      "id": "DTC-30D-03",
+      "horizon": "30d",
+      "horizon_label": "Next 30 Days (Monthly Mainstay / Air Restock)",
+      "sku_name": "Rechargeable Fast-Heating Hand Warmer & 10000mAh Power Bank (2-in-1)",
+      "chinese_name": "二合一磁吸数显暖手宝 (兼充电宝)",
+      "category": "Electronics, Gadgets & EDC",
+      "dvi_score": 91.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#HandWarmer 90M views; splits into two halves for both coat pockets",
+        "google_trends": "+450% seasonal surge entering October/November chill",
+        "pipiads_minea": "High gift campaign spend across US Northern states, UK, and Scandinavia",
+        "amazon_temu": "Amazon Best Seller #1 in Hand Warmers"
+      },
+      "economics": {
+        "fob_usd": 4.60,
+        "dtc_retail_usd": 39.99,
+        "margin_multiplier": "8.7x",
+        "breakeven_roas": 1.40,
+        "recommended_bundle": "Split-Magnetic Duo Pack at $49.99"
+      },
+      "logistics": {
+        "weight_grams": 260,
+        "box_cm": "14 x 9 x 4",
+        "shipping_mode": "Battery Certified Air Packet (UN38.3)"
+      },
+      "ad_creative_hook": "Snow falling on football stadium bleachers: hands freezing purple. Pulls magnetic split warmers apart: heats to 125\u00b0F in 3 seconds, charges dead iPhone at halftime.",
+      "target_audience": "Outdoor sports fans, hunters, Raynaud's syndrome sufferers, commuters."
+    },
+    {
+      "id": "DTC-30D-04",
+      "horizon": "30d",
+      "horizon_label": "Next 30 Days (Monthly Mainstay / Air Restock)",
+      "sku_name": "Self-Cleaning Deshedding Pet Brush with Retractable Bristle Button",
+      "chinese_name": "一键退毛宠物梳 (圆头不伤肤去浮毛神器)",
+      "category": "Pet Supplies & Novelty",
+      "dvi_score": 89.5,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#CatGrooming ASMR bristle push button popping out hair disc",
+        "google_trends": "+230% 'self cleaning slicker brush for dogs'",
+        "pipiads_minea": "Evergreen ad creative with high repeat purchase and dog community shares",
+        "amazon_temu": "Amazon Best Seller in Dog Brushes"
+      },
+      "economics": {
+        "fob_usd": 1.20,
+        "dtc_retail_usd": 19.99,
+        "margin_multiplier": "16.6x",
+        "breakeven_roas": 1.20,
+        "recommended_bundle": "Brush + Silicone Bath Massage Scrubber at $26.99"
+      },
+      "logistics": {
+        "weight_grams": 110,
+        "box_cm": "19 x 10 x 5",
+        "shipping_mode": "Air Packet Direct"
+      },
+      "ad_creative_hook": "Combing shedding cat; thick carpet of fur collects. Presses purple button on top: entire hair disc pops off clean into trash can in 1 tap.",
+      "target_audience": "Long-haired cat & dog owners, professional pet groomers."
+    },
+    {
+      "id": "DTC-30D-05",
+      "horizon": "30d",
+      "horizon_label": "Next 30 Days (Monthly Mainstay / Air Restock)",
+      "sku_name": "Smart Anti-Bark Vibration & Sound Collar with Humane Detection",
+      "chinese_name": "智能人道止吠器 (声波震动无电击宠物训练项圈)",
+      "category": "Pet Supplies & Novelty",
+      "dvi_score": 88.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "Humane (no-shock) training pet equipment gaining massive ethical preference",
+        "google_trends": "+210% 'humane anti bark collar no shock'",
+        "pipiads_minea": "DTC dog training stores running educational problem-solution video ads",
+        "amazon_temu": "Amazon Best Seller in Dog Training Collars"
+      },
+      "economics": {
+        "fob_usd": 4.10,
+        "dtc_retail_usd": 39.99,
+        "margin_multiplier": "9.7x",
+        "breakeven_roas": 1.38,
+        "recommended_bundle": "Collar + Glow-in-the-Dark Leash at $49.99"
+      },
+      "logistics": {
+        "weight_grams": 140,
+        "box_cm": "12 x 8 x 5",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "Neighbor pounding on wall over incessantly barking dog. Humane collar emits gentle warning chime and soft vibration: dog immediately tilts head and stops barking.",
+      "target_audience": "Apartment dog owners receiving noise complaints, new puppy parents."
+    },
+    {
+      "id": "DTC-30D-06",
+      "horizon": "30d",
+      "horizon_label": "Next 30 Days (Monthly Mainstay / Air Restock)",
+      "sku_name": "Portable Smart Visual Ear Wax Removal Otoscope with 1080P HD Camera",
+      "chinese_name": "无线高清可视采耳勺 (带手机实时视频微距镜头)",
+      "category": "Beauty, Skincare & Grooming",
+      "dvi_score": 90.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#EarCleaning 1.6B views; morbidly satisfying visual wax extraction",
+        "google_trends": "+320% 'smart visual ear cleaner with camera'",
+        "pipiads_minea": "Consistently generates over 100k views on TikTok organic and paid ads",
+        "amazon_temu": "Amazon Best Seller in Ear Wax Removal"
+      },
+      "economics": {
+        "fob_usd": 3.40,
+        "dtc_retail_usd": 34.99,
+        "margin_multiplier": "10.3x",
+        "breakeven_roas": 1.33,
+        "recommended_bundle": "Otoscope + 6 Soft Silicone Replacement Spoons at $42.99"
+      },
+      "logistics": {
+        "weight_grams": 95,
+        "box_cm": "17 x 6 x 2",
+        "shipping_mode": "Air Express Packet (Rechargeable lithium battery)"
+      },
+      "ad_creative_hook": "Phone screen shows crystal clear 1080P macro camera inside ear canal. Soft silicone scoop extracts huge dry wax plug without touching eardrum.",
+      "target_audience": "People annoyed with cotton swabs pushing wax deeper, tech gadget lovers."
+    },
+    {
+      "id": "DTC-30D-07",
+      "horizon": "30d",
+      "horizon_label": "Next 30 Days (Monthly Mainstay / Air Restock)",
+      "sku_name": "Heated Shiatsu Neck & Shoulder Deep Kneading Massager with Straps",
+      "chinese_name": "斜方肌热敷深层揉捏肩颈按摩器 (仿人手抓捏)",
+      "category": "Beauty, Skincare & Grooming",
+      "dvi_score": 91.5,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#NeckMassager viral on TikTok Shop US & UK, $30k+ daily sales velocity",
+        "google_trends": "+370% 'trapezius massager for neck and shoulder'",
+        "pipiads_minea": "Top Q4 holiday gift ad creative for parents and office workers",
+        "amazon_temu": "Amazon Best Seller in Electric Back Massagers"
+      },
+      "economics": {
+        "fob_usd": 7.80,
+        "dtc_retail_usd": 59.99,
+        "margin_multiplier": "7.7x",
+        "breakeven_roas": 1.45,
+        "recommended_bundle": "Massager + Acupressure Foot Mat at $74.99"
+      },
+      "logistics": {
+        "weight_grams": 1150,
+        "box_cm": "24 x 18 x 17",
+        "shipping_mode": "Air Packet (Requires local 3PL fulfillment for best margins)"
+      },
+      "ad_creative_hook": "Real human hands massaging tense trapezius vs machine rollers doing the exact same deep pinch motion. User closes eyes and sighs in pure relief.",
+      "target_audience": "Office desk workers, gamers, mothers, holiday gift buyers."
+    },
+    {
+      "id": "DTC-30D-08",
+      "horizon": "30d",
+      "horizon_label": "Next 30 Days (Monthly Mainstay / Air Restock)",
+      "sku_name": "Electric Heated Eyelash Curler with Thermal Silicone Pad (USB-C)",
+      "chinese_name": "USB充电式温控电热烫睫毛器 (持久定型不夹眼皮)",
+      "category": "Beauty, Skincare & Grooming",
+      "dvi_score": 88.5,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "shein_aliexpress": "SHEIN Beauty top repurchased makeup accessory",
+        "google_trends": "+240% 'heated eyelash curler recharge'",
+        "pipiads_minea": "Beauty creators generating 200k+ likes on 'lash lift in 10 seconds' tutorials",
+        "amazon_temu": "Amazon Hot New Releases in Eye Makeup Tools"
+      },
+      "economics": {
+        "fob_usd": 1.40,
+        "dtc_retail_usd": 22.99,
+        "margin_multiplier": "16.4x",
+        "breakeven_roas": 1.25,
+        "recommended_bundle": "Heated Curler + Waterproof Tubing Mascara at $34.99"
+      },
+      "logistics": {
+        "weight_grams": 65,
+        "box_cm": "15 x 6 x 3",
+        "shipping_mode": "Ultralight air packet envelope"
+      },
+      "ad_creative_hook": "Traditional metal curler accidentally pinches eyelid skin (pain!). Switch to pink heated curler: gently combs lashes upwards, curls stay upright through 24-hour water spray.",
+      "target_audience": "Gen-Z & millennial women, Asian lash lovers, beauty trend followers."
+    },
+    {
+      "id": "DTC-30D-09",
+      "horizon": "30d",
+      "horizon_label": "Next 30 Days (Monthly Mainstay / Air Restock)",
+      "sku_name": "Magnetic Fluid Levitating Moon Lamp with Wireless Charging Base",
+      "chinese_name": "磁悬浮3D打印发光月球灯 (悬空自转极光氛围灯)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 89.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#LevitatingLamp 85M views; high 'magic' factor",
+        "google_trends": "+290% Q4 holiday gift surge 'levitating moon lamp'",
+        "pipiads_minea": "Scaling on Facebook & Instagram targeting gift-giving husbands and boyfriends",
+        "amazon_temu": "Amazon Movers in Novelty Lighting"
+      },
+      "economics": {
+        "fob_usd": 8.50,
+        "dtc_retail_usd": 69.99,
+        "margin_multiplier": "8.2x",
+        "breakeven_roas": 1.45,
+        "recommended_bundle": "Moon Lamp + Custom Engraved Walnut Base for $84.99"
+      },
+      "logistics": {
+        "weight_grams": 820,
+        "box_cm": "22 x 22 x 18",
+        "shipping_mode": "Air Express / Overseas Warehouse Delivery"
+      },
+      "ad_creative_hook": "Hand gently places miniature 3D textured moon over walnut wood base: it lets go and the moon floats in mid-air, slowly spinning and glowing warm white.",
+      "target_audience": "Holiday shoppers, science/space lovers, luxury bedroom d\u00e9cor."
+    },
+    {
+      "id": "DTC-30D-10",
+      "horizon": "30d",
+      "horizon_label": "Next 30 Days (Monthly Mainstay / Air Restock)",
+      "sku_name": "Collapsible Push-Up Board with Color-Coded Muscle Target Guides",
+      "chinese_name": "多功能折叠俯卧撑训练板 (多姿势肌肉发力指南)",
+      "category": "Outdoor, Sports & Fitness",
+      "dvi_score": 88.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#HomeWorkout 18B views; 30-day chest transformation challenges",
+        "google_trends": "+210% rising search 'push up board color coded'",
+        "pipiads_minea": "Consistent Q4 home fitness campaign scaling into January New Year resolutions",
+        "amazon_temu": "Amazon Best Seller in Strength Training Equipment"
+      },
+      "economics": {
+        "fob_usd": 3.20,
+        "dtc_retail_usd": 34.99,
+        "margin_multiplier": "10.9x",
+        "breakeven_roas": 1.30,
+        "recommended_bundle": "Board + 5-Level Resistance Bands Set at $49.99"
+      },
+      "logistics": {
+        "weight_grams": 890,
+        "box_cm": "33 x 20 x 8 (Folded flat)",
+        "shipping_mode": "Air Mailer / Local Fulfillment Center"
+      },
+      "ad_creative_hook": "Incorrect push-ups hurting shoulder joints. Plugs color-coded handles into 'Chest' red slots, then 'Tricep' green slots: perfect muscle pump with zero wrist strain.",
+      "target_audience": "Home gym builders, busy men wanting quick 15-min daily chest workouts."
+    },
+    {
+      "id": "DTC-60D-01",
+      "horizon": "60d",
+      "horizon_label": "Next 60 Days (Quarterly Holiday Hero / Sea Freight)",
+      "sku_name": "Graphene Heated Down Puffer Vest with 3-Zone Smart Thermal Control",
+      "chinese_name": "石墨烯智能三档温控发热马甲背心 (USB充电防风保暖)",
+      "category": "Apparel, Shapewear & Accessories",
+      "dvi_score": 94.5,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#HeatedVest 420M views; massive Black Friday / Cyber Monday gift volume",
+        "google_trends": "+650% annual Q4 surge starting October peaking through Christmas",
+        "pipiads_minea": "Over $150k/day spent on heated apparel across North America and Europe",
+        "amazon_temu": "Amazon Best Seller #1 in Men's & Women's Outerwear Vests"
+      },
+      "economics": {
+        "fob_usd": 7.20,
+        "dtc_retail_usd": 69.99,
+        "margin_multiplier": "9.7x",
+        "breakeven_roas": 1.38,
+        "recommended_bundle": "Vest + 10,000mAh Slim Power Bank + Travel Bag for $89.99"
+      },
+      "logistics": {
+        "weight_grams": 450,
+        "box_cm": "30 x 22 x 6 (Vacuum Packed)",
+        "shipping_mode": "Sea Freight FBA / Fast 3PL Overseas Warehouse Injection"
+      },
+      "ad_creative_hook": "Dad shivering in freezing snow at son's hockey game. Presses discreet LED chest button: vest turns red, thermal imaging camera shows core heating up to 130\u00b0F in 5 seconds.",
+      "target_audience": "Holiday shoppers, outdoor workers, golfers in late fall, motorcyclists, elderly parents."
+    },
+    {
+      "id": "DTC-60D-02",
+      "horizon": "60d",
+      "horizon_label": "Next 60 Days (Quarterly Holiday Hero / Sea Freight)",
+      "sku_name": "Fleece-Lined Flawless Fake Translucent Warm Winter Tights",
+      "chinese_name": "光腿神器冬款加绒加厚假透肉打底裤 (防勾丝裸感裸肤)",
+      "category": "Apparel, Shapewear & Accessories",
+      "dvi_score": 93.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "shein_aliexpress": "SHEIN #1 Winter Apparel product; millions of viral TikTok videos",
+        "google_trends": "+550% recurring November-January search peak 'fleece lined sheer tights'",
+        "pipiads_minea": "DTC stores achieving 4.0x ROAS targeting winter fashionistas wearing skirts in winter",
+        "amazon_temu": "Amazon Best Seller in Women's Tights & Hosiery"
+      },
+      "economics": {
+        "fob_usd": 2.40,
+        "dtc_retail_usd": 29.99,
+        "margin_multiplier": "12.5x",
+        "breakeven_roas": 1.25,
+        "recommended_bundle": "Buy 2 Get 1 Free (Black Sheer, Coffee Sheer, Natural Skin) at $54.99"
+      },
+      "logistics": {
+        "weight_grams": 310,
+        "box_cm": "25 x 15 x 4",
+        "shipping_mode": "Air Express / Sea Bulk to US/UK 3PL"
+      },
+      "ad_creative_hook": "Woman walking outside in freezing snowy Chicago wearing short skirt. Ice cube rubbed on leg: pulls skin back to reveal thick 300g sherpa fleece inside, looks 100% sheer nylon outside.",
+      "target_audience": "Women who love skirts/dresses in winter, holiday party wearers."
+    },
+    {
+      "id": "DTC-60D-03",
+      "horizon": "60d",
+      "horizon_label": "Next 60 Days (Quarterly Holiday Hero / Sea Freight)",
+      "sku_name": "Interactive Smart Dancing Glow Cactus with Voice Repeat & Holiday Songs",
+      "chinese_name": "会学说话录音扭摆发光仙人掌玩偶 (圣诞特别版)",
+      "category": "Pet Supplies & Novelty",
+      "dvi_score": 91.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#DancingCactus 3.5B views; hilarious baby & dog reaction videos",
+        "google_trends": "+480% annual Christmas gift surge",
+        "pipiads_minea": "Consistently generates explosive impulse sales under $25 on TikTok ads",
+        "amazon_temu": "Amazon Holiday Toy List Top Pick"
+      },
+      "economics": {
+        "fob_usd": 2.10,
+        "dtc_retail_usd": 24.99,
+        "margin_multiplier": "11.9x",
+        "breakeven_roas": 1.28,
+        "recommended_bundle": "Buy 2 for $39.99 (Great stocking stuffer bundle)"
+      },
+      "logistics": {
+        "weight_grams": 210,
+        "box_cm": "32 x 12 x 10",
+        "shipping_mode": "Sea freight container / Air dropship"
+      },
+      "ad_creative_hook": "Baby babbles nonsense; cactus wiggles and repeats it in funny pitched voice. Baby bursts into giggles, family laughing hysterically under Christmas tree.",
+      "target_audience": "Parents of toddlers, funny gift exchanges (White Elephant), pet entertainers."
+    },
+    {
+      "id": "DTC-60D-04",
+      "horizon": "60d",
+      "horizon_label": "Next 60 Days (Quarterly Holiday Hero / Sea Freight)",
+      "sku_name": "Ultra-Plush Fluffy Calming Faux Fur Anti-Anxiety Pet Donut Bed",
+      "chinese_name": "超柔长毛绒宠物解压安抚甜甜圈窝 (可拆洗防滑防水底)",
+      "category": "Pet Supplies & Novelty",
+      "dvi_score": 90.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#CalmingDogBed 280M views; dogs immediately falling into deep REM sleep",
+        "google_trends": "+390% winter search spike 'calming dog bed for winter'",
+        "pipiads_minea": "One of the most legendary high-ticket DTC Shopify dropship niches",
+        "amazon_temu": "Amazon Best Seller #1 in Dog Beds"
+      },
+      "economics": {
+        "fob_usd": 4.80,
+        "dtc_retail_usd": 49.99,
+        "margin_multiplier": "10.4x",
+        "breakeven_roas": 1.32,
+        "recommended_bundle": "Donut Bed + Matching Soft Fur Blanket for $64.99"
+      },
+      "logistics": {
+        "weight_grams": 750,
+        "box_cm": "30 x 25 x 12 (Vacuum Compressed)",
+        "shipping_mode": "Vacuum rolled flat in polybag (Essential for reducing air/sea freight)"
+      },
+      "ad_creative_hook": "Rescued dog with separation anxiety pacing on cold tile floor. Steps into 4cm shag fur donut bed, curls into circle, and instantly starts sleeping peacefully.",
+      "target_audience": "Dog & cat parents, holiday gift buyers, winter comfort seekers."
+    },
+    {
+      "id": "DTC-60D-05",
+      "horizon": "60d",
+      "horizon_label": "Next 60 Days (Quarterly Holiday Hero / Sea Freight)",
+      "sku_name": "Smart App-Controlled 3D LED Firework Symphony Fairy Curtain Lights",
+      "chinese_name": "幻彩RGB蓝牙APP控制烟花窗帘流星氛围灯串",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 92.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#ChristmasLights #LEDDecor 1.4B views; music rhythm synchronization",
+        "google_trends": "+520% Q4 holiday peak 'smart firework led lights'",
+        "pipiads_minea": "Massive ad spend on Meta & TikTok throughout October-December",
+        "amazon_temu": "Amazon Movers in Holiday String Lights"
+      },
+      "economics": {
+        "fob_usd": 3.80,
+        "dtc_retail_usd": 39.99,
+        "margin_multiplier": "10.5x",
+        "breakeven_roas": 1.32,
+        "recommended_bundle": "Living Room Kit (11 strips firework) + Bedroom Curtain Set at $69.99"
+      },
+      "logistics": {
+        "weight_grams": 280,
+        "box_cm": "16 x 14 x 5",
+        "shipping_mode": "Air Express / Sea Bulk Pre-positioning"
+      },
+      "ad_creative_hook": "Music playing on Spotify: Living room wall bursts into dazzling simulated fireworks dancing precisely to the drum beats. Controlled from smartphone app.",
+      "target_audience": "Home holiday decorators, gaming room builders, party hosts."
+    },
+    {
+      "id": "DTC-60D-06",
+      "horizon": "60d",
+      "horizon_label": "Next 60 Days (Quarterly Holiday Hero / Sea Freight)",
+      "sku_name": "High-Definition Smartphone Astronomical Monocular Telescope (80x100)",
+      "chinese_name": "80x100 高倍高清夜视手机拍照单筒望远镜 (户外打鸟赏月)",
+      "category": "Outdoor, Sports & Fitness",
+      "dvi_score": 89.5,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#Monocular 85M views; unbelievable zoom shots of moon craters and birds",
+        "google_trends": "+310% holiday gift query 'monocular telescope for smartphone'",
+        "pipiads_minea": "Classic high-converting Facebook ad campaign targeting men 35-65",
+        "amazon_temu": "Amazon Best Seller in Monoculars"
+      },
+      "economics": {
+        "fob_usd": 4.60,
+        "dtc_retail_usd": 44.99,
+        "margin_multiplier": "9.8x",
+        "breakeven_roas": 1.36,
+        "recommended_bundle": "Monocular + Metal Tripod + Universal Smartphone Clip at $54.99"
+      },
+      "logistics": {
+        "weight_grams": 340,
+        "box_cm": "17 x 9 x 7",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "Phone camera zooms in on moon: looks like blurry pixelated white dot. Clips monocular telescope onto camera lens: crisp craters and lunar ridges clearly visible in 4K.",
+      "target_audience": "Hikers, birdwatchers, stargazers, fathers, photography enthusiasts."
+    },
+    {
+      "id": "DTC-60D-07",
+      "horizon": "60d",
+      "horizon_label": "Next 60 Days (Quarterly Holiday Hero / Sea Freight)",
+      "sku_name": "Professional 32-in-1 Magnetic Precision Screwdriver Set with Aluminum Case",
+      "chinese_name": "铝合金按压式32合一精修磁吸螺丝刀套装",
+      "category": "Electronics, Gadgets & EDC",
+      "dvi_score": 88.5,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "Clean ASMR pop-up aluminum case unboxing videos",
+        "google_trends": "+260% 'precision screwdriver set for electronics'",
+        "pipiads_minea": "Great holiday gift item priced at $29-$39 with high male gift recipient conversion",
+        "amazon_temu": "Amazon Movers in Hand Tool Sets"
+      },
+      "economics": {
+        "fob_usd": 2.80,
+        "dtc_retail_usd": 29.99,
+        "margin_multiplier": "10.7x",
+        "breakeven_roas": 1.30,
+        "recommended_bundle": "Screwdriver Set + Magnetic Screw Mat at $36.99"
+      },
+      "logistics": {
+        "weight_grams": 250,
+        "box_cm": "17 x 7 x 2",
+        "shipping_mode": "Flat air packet"
+      },
+      "ad_creative_hook": "Clicks top of sleek Apple-like aluminum case: internal drawer smoothly pops out revealing 32 precision magnetized S2 steel bits organized like a jewelry box.",
+      "target_audience": "Tech tinkerers, iPhone repair DIYers, fathers, hobbyists."
+    },
+    {
+      "id": "DTC-60D-08",
+      "horizon": "60d",
+      "horizon_label": "Next 60 Days (Quarterly Holiday Hero / Sea Freight)",
+      "sku_name": "Smart Self-Stirring Heated Coffee Mug with Precise Temperature Control",
+      "chinese_name": "无线恒温加热自搅拌咖啡杯 (Ember平替型)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 90.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#EmberMug alternative searches surging as temperature drops",
+        "google_trends": "+430% Q4 holiday surge 'heated coffee mug for desk'",
+        "pipiads_minea": "Strong conversion as luxury office gift for Christmas and Secret Santa",
+        "amazon_temu": "Amazon Best Seller in Novelty Coffee Mugs"
+      },
+      "economics": {
+        "fob_usd": 6.80,
+        "dtc_retail_usd": 54.99,
+        "margin_multiplier": "8.1x",
+        "breakeven_roas": 1.40,
+        "recommended_bundle": "Mug + Wireless Charging Coaster Base + Spoon at $69.99"
+      },
+      "logistics": {
+        "weight_grams": 480,
+        "box_cm": "18 x 15 x 12",
+        "shipping_mode": "Air Express Packet / Local US 3PL"
+      },
+      "ad_creative_hook": "Takes sip of regular coffee 20 minutes into work meeting: cold and gross. Sets smart heated mug on desk: keeps coffee at exact 135\u00b0F all day long.",
+      "target_audience": "Remote workers, accountants, lawyers, coffee lovers."
+    },
+    {
+      "id": "DTC-60D-09",
+      "horizon": "60d",
+      "horizon_label": "Next 60 Days (Quarterly Holiday Hero / Sea Freight)",
+      "sku_name": "Wearable Heated Hooded Blanket Sweatshirt (Giant Sherpa Oversized)",
+      "chinese_name": "加厚法兰绒羊羔绒带袖连帽懒人毛毯卫衣 (Oodie同款型)",
+      "category": "Apparel, Shapewear & Accessories",
+      "dvi_score": 92.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "tiktok_shop": "#Oodie #BlanketHoodie 1.1B views; winter movie night essential",
+        "google_trends": "+680% annual November-December winter explosion",
+        "pipiads_minea": "DTC brands doing multi-million dollar holiday sales annually",
+        "amazon_temu": "Amazon Best Seller #1 in Wearable Blankets"
+      },
+      "economics": {
+        "fob_usd": 5.40,
+        "dtc_retail_usd": 49.99,
+        "margin_multiplier": "9.3x",
+        "breakeven_roas": 1.35,
+        "recommended_bundle": "His & Hers Duo Pack (2 Hoodies) for $79.99"
+      },
+      "logistics": {
+        "weight_grams": 820,
+        "box_cm": "32 x 25 x 10 (Vacuum compressed tightly)",
+        "shipping_mode": "Sea freight container to 3PL / Vacuum air pack"
+      },
+      "ad_creative_hook": "Freezing winter draft inside house; heating bill astronomical. Slips on giant cloud-soft oversized sherpa hoodie blanket with giant kangaroo pocket.",
+      "target_audience": "Teens, college students, moms, gamers, anyone cold at home."
+    },
+    {
+      "id": "DTC-60D-10",
+      "horizon": "60d",
+      "horizon_label": "Next 60 Days (Quarterly Holiday Hero / Sea Freight)",
+      "sku_name": "Retro Vinyl Turntable Wireless Bluetooth Speaker with Moving Tone Arm",
+      "chinese_name": "复古黑胶唱片机无线蓝牙音箱 (唱臂开关/旋转唱片)",
+      "category": "Electronics, Gadgets & EDC",
+      "dvi_score": 89.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "tiktok_shop": "#VintageAesthetic 320M views; moving vinyl record while playing",
+        "google_trends": "+310% 'vintage record player bluetooth speaker'",
+        "pipiads_minea": "High aesthetic conversion on Pinterest, Instagram, and TikTok gift ads",
+        "amazon_temu": "Amazon Hot New Releases in Portable Speakers"
+      },
+      "economics": {
+        "fob_usd": 4.80,
+        "dtc_retail_usd": 42.99,
+        "margin_multiplier": "9.0x",
+        "breakeven_roas": 1.38,
+        "recommended_bundle": "Speaker + Vintage Gift Box Packaging at $49.99"
+      },
+      "logistics": {
+        "weight_grams": 320,
+        "box_cm": "15 x 15 x 7",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "Moves tiny vintage turntable tonearm onto miniature spinning vinyl disc: crystal clear retro jazz music begins playing instantly.",
+      "target_audience": "Gen-Z aesthetic decorators, vintage music lovers, girlfriend gift shoppers."
+    },
+    {
+      "id": "DTC-90D-01",
+      "horizon": "90d",
+      "horizon_label": "Next 90 Days (Next-Season Early Bird / Tooling & OEM)",
+      "sku_name": "Ultrasonic Pest & Rodent Repeller with Electromagnetic Wave Frequency",
+      "chinese_name": "变频电磁波超声波驱鼠驱蚊虫器 (春季防虫早鸟)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 91.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "google_trends": "Historic annual surge starting February/March as spring thawing brings pests",
+        "amazon_temu": "Amazon Best Seller #1 in Outdoor Pest Control (over 100k units/month in spring)",
+        "pipiads_minea": "DTC spring home maintenance stores scale early to capture low CPA in late winter",
+        "tiktok_shop": "Zero-chemical pet & baby safe pest repeller demos"
+      },
+      "economics": {
+        "fob_usd": 1.20,
+        "dtc_retail_usd": 24.99,
+        "margin_multiplier": "20.8x",
+        "breakeven_roas": 1.20,
+        "recommended_bundle": "Whole-Home 6-Pack (1 for every room) at $49.99"
+      },
+      "logistics": {
+        "weight_grams": 75,
+        "box_cm": "10 x 7 x 4",
+        "shipping_mode": "Ultralight air packet / bulk container"
+      },
+      "ad_creative_hook": "Infographic shows rodents and spiders nesting in walls during early spring. Plugs discreet ultrasonic pod into wall socket: silent variable waves drive pests out without poison.",
+      "target_audience": "Suburban homeowners, gardeners, cabin owners, parents."
+    },
+    {
+      "id": "DTC-90D-02",
+      "horizon": "90d",
+      "horizon_label": "Next 90 Days (Next-Season Early Bird / Tooling & OEM)",
+      "sku_name": "Cordless High-Pressure Lithium Washer Gun for Patio & Car Detailing",
+      "chinese_name": "锂电便携式高压清洗水枪 (洗车/园艺/庭院青苔冲洗)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 92.5,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "google_trends": "+490% seasonal spike from March through June for spring cleaning & yard care",
+        "amazon_temu": "Amazon Movers in Pressure Washers",
+        "pipiads_minea": "Massive early spring ad spend targeting suburban men on Facebook & YouTube",
+        "tiktok_shop": "#PressureWashing 12B views; satisfying dirt blasting off driveways"
+      },
+      "economics": {
+        "fob_usd": 9.50,
+        "dtc_retail_usd": 79.99,
+        "margin_multiplier": "8.4x",
+        "breakeven_roas": 1.40,
+        "recommended_bundle": "Washer + 2 Lithium Batteries + Foam Cannon Soap Dispenser at $99.99"
+      },
+      "logistics": {
+        "weight_grams": 1400,
+        "box_cm": "36 x 28 x 12 (Toolbox case)",
+        "shipping_mode": "Sea Freight Bulk to US/EU 3PL Warehouse"
+      },
+      "ad_creative_hook": "No water hose connection needed: drops intake hose into bucket of water. Blasts 400 PSI jet of water stripping 5 years of green winter moss off patio bricks in seconds.",
+      "target_audience": "Homeowners, car detailing hobbyists, RV travelers, garden prep."
+    },
+    {
+      "id": "DTC-90D-03",
+      "horizon": "90d",
+      "horizon_label": "Next 90 Days (Next-Season Early Bird / Tooling & OEM)",
+      "sku_name": "Ultralight Packable Waterproof Hiking Windbreaker Shell (3000mm)",
+      "chinese_name": "超轻可收纳防风防泼水户外运动风衣 (春季徒步轻户外)",
+      "category": "Outdoor, Sports & Fitness",
+      "dvi_score": 90.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "google_trends": "Spring outdoor transition trend starting early Q1 'packable rain jacket'",
+        "shein_aliexpress": "SHEIN Outdoor trending outerwear",
+        "pipiads_minea": "Spring fitness & trail running DTC brands scaling ahead of April rain",
+        "amazon_temu": "Amazon Best Seller in Men's Lightweight Jackets"
+      },
+      "economics": {
+        "fob_usd": 3.80,
+        "dtc_retail_usd": 39.99,
+        "margin_multiplier": "10.5x",
+        "breakeven_roas": 1.32,
+        "recommended_bundle": "Windbreaker + Waterproof Dry Bag at $49.99"
+      },
+      "logistics": {
+        "weight_grams": 160,
+        "box_cm": "18 x 12 x 4 (Folds into its own chest pocket)",
+        "shipping_mode": "Polybag flat mailer"
+      },
+      "ad_creative_hook": "Sudden spring rain downpour on mountain trail: pulls palm-sized pouch from backpack, shakes it out into full sleek technical waterproof jacket in 3 seconds.",
+      "target_audience": "Hikers, trail runners, cyclists, spring commuters."
+    },
+    {
+      "id": "DTC-90D-04",
+      "horizon": "90d",
+      "horizon_label": "Next 90 Days (Next-Season Early Bird / Tooling & OEM)",
+      "sku_name": "Automatic Solar-Powered Drip Irrigation System with Programmable Timer",
+      "chinese_name": "太阳能自动滴灌浇花定时器 (春季阳台花园懒人浇水)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 89.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "google_trends": "+380% surge starting March 'solar drip irrigation kit'",
+        "amazon_temu": "Amazon Movers in Watering Equipment",
+        "pipiads_minea": "Gardening DTC brands launching early pre-orders in February",
+        "tiktok_shop": "#GardeningHacks 1.2B views"
+      },
+      "economics": {
+        "fob_usd": 6.20,
+        "dtc_retail_usd": 54.99,
+        "margin_multiplier": "8.9x",
+        "breakeven_roas": 1.38,
+        "recommended_bundle": "Solar Unit + 15-Pot Tubing & Dripper Kit at $64.99"
+      },
+      "logistics": {
+        "weight_grams": 550,
+        "box_cm": "24 x 18 x 8",
+        "shipping_mode": "Air Express / Sea Bulk"
+      },
+      "ad_creative_hook": "Family goes away for 2-week vacation: comes home to dead brown plants. Cut to solar drip kit running automatically: lush green blooming flowers without touching garden faucet.",
+      "target_audience": "Gardeners, balcony plant owners, frequent travelers, green thumbs."
+    },
+    {
+      "id": "DTC-90D-05",
+      "horizon": "90d",
+      "horizon_label": "Next 90 Days (Next-Season Early Bird / Tooling & OEM)",
+      "sku_name": "Electric Sonic Scrubber Facial Cleanser with Silicone Bristles",
+      "chinese_name": "硅胶声波深层温和洁面仪 (去黑头角质换季护肤)",
+      "category": "Beauty, Skincare & Grooming",
+      "dvi_score": 88.5,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "google_trends": "Spring skincare routine searches surge in February 'gentle exfoliating face brush'",
+        "shein_aliexpress": "SHEIN Beauty top rating facial brush",
+        "pipiads_minea": "Foreo alternative DTC dropship funnels scaling for Valentine's & Mother's Day",
+        "amazon_temu": "Amazon Best Seller in Facial Cleansing Brushes"
+      },
+      "economics": {
+        "fob_usd": 2.10,
+        "dtc_retail_usd": 28.99,
+        "margin_multiplier": "13.8x",
+        "breakeven_roas": 1.26,
+        "recommended_bundle": "Cleanser + Foaming Amino Acid Face Wash at $38.99"
+      },
+      "logistics": {
+        "weight_grams": 130,
+        "box_cm": "12 x 8 x 4",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "Wiping face with towel after regular hand-wash (still makeup residue). Cleans with sonic silicone brush: makeup and pore oil completely lifted off in 60 seconds.",
+      "target_audience": "Women and men updating skincare routine for spring glow."
+    },
+    {
+      "id": "DTC-90D-06",
+      "horizon": "90d",
+      "horizon_label": "Next 90 Days (Next-Season Early Bird / Tooling & OEM)",
+      "sku_name": "Pop-Up Automatic Instant Beach & Sun Shade Tent (UPF 50+)",
+      "chinese_name": "全自动速开防晒遮阳沙滩露营帐篷 (UPF50+防紫外线)",
+      "category": "Outdoor, Sports & Fitness",
+      "dvi_score": 91.5,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "google_trends": "+510% annual search wave commencing March/April leading into summer vacation",
+        "amazon_temu": "Amazon Best Seller in Camping & Sun Shelters",
+        "pipiads_minea": "Spring break & summer preparation campaigns scale early on Meta",
+        "tiktok_shop": "#BeachDay #OutdoorMom viral instant-opening videos"
+      },
+      "economics": {
+        "fob_usd": 6.80,
+        "dtc_retail_usd": 59.99,
+        "margin_multiplier": "8.8x",
+        "breakeven_roas": 1.40,
+        "recommended_bundle": "Tent + Sand-Free Beach Mat + Stakes for $79.99"
+      },
+      "logistics": {
+        "weight_grams": 1100,
+        "box_cm": "45 x 45 x 5 (Disc carry bag)",
+        "shipping_mode": "Pre-positioned Sea Freight to US/EU 3PL Fulfillment"
+      },
+      "ad_creative_hook": "Parent struggling to assemble traditional poles in windy beach. Throws pop-up disc in air: instantly springs into full spacious sun tent before hitting the ground.",
+      "target_audience": "Families with young kids, beachgoers, park picnickers."
+    },
+    {
+      "id": "DTC-90D-07",
+      "horizon": "90d",
+      "horizon_label": "Next 90 Days (Next-Season Early Bird / Tooling & OEM)",
+      "sku_name": "Anti-Chafing Smooth Thigh Sculpting Boxer Briefs for Dresses",
+      "chinese_name": "防走光防磨腿冰丝无痕打底安全裤 (春夏连衣裙内搭)",
+      "category": "Apparel, Shapewear & Accessories",
+      "dvi_score": 89.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "google_trends": "Historic annual rise starting March as weather warms 'chub rub shorts for dresses'",
+        "shein_aliexpress": "SHEIN Intimates spring best seller",
+        "pipiads_minea": "DTC women's comfort brands generating massive organic TikTok virality",
+        "amazon_temu": "Amazon Best Seller in Women's Slip Shorts"
+      },
+      "economics": {
+        "fob_usd": 1.40,
+        "dtc_retail_usd": 22.99,
+        "margin_multiplier": "16.4x",
+        "breakeven_roas": 1.25,
+        "recommended_bundle": "3-Pack Value Box (Nude, Black, White) at $42.99"
+      },
+      "logistics": {
+        "weight_grams": 85,
+        "box_cm": "18 x 12 x 2",
+        "shipping_mode": "Ultralight polybag mailer"
+      },
+      "ad_creative_hook": "Sound of skin chafing and irritation while walking in summer dress. Slips on seamless cooling ice-silk thigh shorts: thighs glide smoothly with zero friction or redness.",
+      "target_audience": "Plus-size women, dress wearers, festival goers, commuters."
+    },
+    {
+      "id": "DTC-90D-08",
+      "horizon": "90d",
+      "horizon_label": "Next 90 Days (Next-Season Early Bird / Tooling & OEM)",
+      "sku_name": "Ergonomic Handheld Electric Weed Puller & Root Remover",
+      "chinese_name": "直立免弯腰拔草器 (春季庭院园林除草神器)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 90.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "google_trends": "+460% seasonal spike starting March 'stand up weed puller tool'",
+        "amazon_temu": "Amazon Best Seller #1 in Manual Weeders",
+        "pipiads_minea": "Facebook video ads targeting suburban homeowners 45+ with back pain hooks",
+        "tiktok_shop": "#LawnCare 3.8B views; pulling deep dandelion taproot in one piece"
+      },
+      "economics": {
+        "fob_usd": 4.50,
+        "dtc_retail_usd": 42.99,
+        "margin_multiplier": "9.6x",
+        "breakeven_roas": 1.35,
+        "recommended_bundle": "Weed Puller + Puncture-Proof Garden Gloves at $49.99"
+      },
+      "logistics": {
+        "weight_grams": 480,
+        "box_cm": "50 x 12 x 5 (Modular snap-together pole)",
+        "shipping_mode": "Standard Long Packet / Local Warehouse Injection"
+      },
+      "ad_creative_hook": "Elderly man wincing while kneeling on wet grass pulling stubborn weeds. Steps on foot pedal of stand-up claw: pulls entire 8-inch dandelion taproot out cleanly with zero bending.",
+      "target_audience": "Homeowners with lawns, seniors, gardening hobbyists."
+    },
+    {
+      "id": "DTC-90D-09",
+      "horizon": "90d",
+      "horizon_label": "Next 90 Days (Next-Season Early Bird / Tooling & OEM)",
+      "sku_name": "Smart Bluetooth BBQ Meat Thermometer with Dual Wireless Probes (500ft)",
+      "chinese_name": "双探针远距离无线蓝牙烧烤肉温计 (春夏季户外烧烤早鸟)",
+      "category": "Home & Kitchen Essentials",
+      "dvi_score": 91.0,
+      "tier": "Tier S Super Winner",
+      "platform_signals": {
+        "google_trends": "Strong annual growth ramping March-May 'wireless meat thermometer for grill'",
+        "amazon_temu": "Amazon Best Seller in Meat Thermometers (Meater alternative)",
+        "pipiads_minea": "High AOV Father's Day & early BBQ season winner on Meta and YouTube",
+        "tiktok_shop": "#BBQTok 8.9B views; slicing medium-rare smoked brisket"
+      },
+      "economics": {
+        "fob_usd": 8.80,
+        "dtc_retail_usd": 69.99,
+        "margin_multiplier": "8.0x",
+        "breakeven_roas": 1.40,
+        "recommended_bundle": "Thermometer Duo + Heat-Resistant Silicone BBQ Gloves at $84.99"
+      },
+      "logistics": {
+        "weight_grams": 220,
+        "box_cm": "18 x 7 x 4",
+        "shipping_mode": "Air Express Packet"
+      },
+      "ad_creative_hook": "Leaves brisket on smoker in backyard, sits inside watching game on TV. Phone notification dings: 'Steak reached 135\u00b0F medium rare'. Slices open: perfectly juicy pink center.",
+      "target_audience": "BBQ enthusiasts, grill masters, fathers, outdoor cooks."
+    },
+    {
+      "id": "DTC-90D-10",
+      "horizon": "90d",
+      "horizon_label": "Next 90 Days (Next-Season Early Bird / Tooling & OEM)",
+      "sku_name": "Sand-Free Fast-Drying Microfiber Oversized Geometric Beach Towel",
+      "chinese_name": "超细纤维速干不沾沙大号印花沙滩巾 (便携露营旅行浴巾)",
+      "category": "Outdoor, Sports & Fitness",
+      "dvi_score": 88.0,
+      "tier": "Tier A Strong Candidate",
+      "platform_signals": {
+        "google_trends": "Spring/Summer recurring peak starting April 'sand free beach towel'",
+        "shein_aliexpress": "SHEIN Beach & Travel accessories top performer",
+        "pipiads_minea": "DTC brands like Tesalate/Sand Cloud scaling lifestyle photo ads",
+        "amazon_temu": "Amazon Movers in Beach Towels"
+      },
+      "economics": {
+        "fob_usd": 2.20,
+        "dtc_retail_usd": 27.99,
+        "margin_multiplier": "12.7x",
+        "breakeven_roas": 1.25,
+        "recommended_bundle": "Buy 2 Get 1 Free Family Vacation Pack at $59.99"
+      },
+      "logistics": {
+        "weight_grams": 280,
+        "box_cm": "20 x 14 x 4 (Folds into compact travel pouch)",
+        "shipping_mode": "Air Packet / Sea Bulk to 3PL"
+      },
+      "ad_creative_hook": "Pours wet sand all over towel on beach. One shake: 100% of sand falls off completely clean. Rolls up into tiny soda-can sized pouch, absorbs 3x its weight in water.",
+      "target_audience": "Beachgoers, travelers, swimmers, yoga attendees, campers."
+    }
+  ]
+}

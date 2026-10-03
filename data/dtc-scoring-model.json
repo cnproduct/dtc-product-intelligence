@@ -1,0 +1,57 @@
+{
+  "model_name": "DTC Viability Index (DVI) 2.0",
+  "version": "2.0.0",
+  "updated_at": "2026-10-03",
+  "purpose": "Algorithmic qualification framework to eliminate unviable products and select scalable 7d-90d winning DTC items",
+  "weights": {
+    "visual_hook_score": {
+      "weight": 0.25,
+      "description": "3-second scroll-stopping power on TikTok/Meta feeds, Before-vs-After contrast, or ASMR audio/visual satisfaction."
+    },
+    "margin_multiplier_score": {
+      "weight": 0.25,
+      "description": "Retail price (MSRP) divided by landed product cost (FOB + shipping). Minimum 4.0x multiplier required to support Customer Acquisition Cost (CAC)."
+    },
+    "logistics_density_score": {
+      "weight": 0.15,
+      "description": "Gross weight < 500g and compact non-fragile packaging. Maximizes air packet margin and minimizes 3PL fulfillment costs."
+    },
+    "seasonality_alignment_score": {
+      "weight": 0.15,
+      "description": "Alignment with target time horizon (7d, 14d, 30d, 60d, 90d) and seasonal weather/holiday cycles."
+    },
+    "competition_moat_score": {
+      "weight": 0.10,
+      "description": "Degree of custom branding defensibility, giftability, or unique bundling not easily commoditized by Temu direct price war."
+    },
+    "risk_resistance_score": {
+      "weight": 0.10,
+      "description": "Absence of sizing issues, fragile glass, hazardous liquid, or extreme return rate triggers (<3% expected refund rate)."
+    }
+  },
+  "rating_thresholds": {
+    "tier_s_super_winner": {
+      "min_score": 90,
+      "action": "Immediate full-scale budget allocation: launch 5-10 ad angles, setup customized Shopify landing page with upsell bundles, prep 1000+ units air/sea."
+    },
+    "tier_a_strong_candidate": {
+      "min_score": 80,
+      "action": "Rapid test batch: 100-300 units via dropship or air express, test 3-5 creative video concepts on TikTok/Meta."
+    },
+    "tier_b_conditional_test": {
+      "min_score": 70,
+      "action": "Requires packaging redesign, bundled accessory, or higher perceived value before ad spend."
+    },
+    "tier_c_disqualified": {
+      "max_score": 69,
+      "action": "Pass / Reject. High shipping cost, low margin, or saturated marketplace competition."
+    }
+  },
+  "hard_disqualification_filters": [
+    "Strict trademark / copyright infringement (Disney, Nike, Marvel, Apple, etc.)",
+    "Unsealed chemical liquids, corrosive flammables, or uncertified ingestion hazards",
+    "Fragile glass without shockproof mold packaging (>8% break rate during transit)",
+    "Gross weight > 1.8kg with retail price < $30 (shipping eats 100% of profit)",
+    "Gross margin multiplier < 3.2x (inevitable net loss after ad CPA and transaction fees)"
+  ]
+}
