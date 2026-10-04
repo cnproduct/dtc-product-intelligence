@@ -168,11 +168,36 @@ python3 scripts/dtc_product_radar.py --export-brief --horizon 14d
 
 ---
 
-## 7. 仓库架构与快速上手 / Repository Architecture & Quickstart
+# 7. 融入的开源项目与情报采集工具 / Open-Source Spy & Radar Tools
+
+本项目融合了 GitHub 上最优秀的开源爬虫、MCP 协议与选品工具链设计：
+
+```bash
+# A. 窥探任意 Shopify 独立站竞品畅销榜与定价 (借鉴 lagenar/shopify-scraper)
+python3 scripts/shopify_store_spy.py --url https://<competitor-shopify-domain>.com --limit 20
+
+# B. 生成单个爆款的 Meta / TikTok / Amazon / Google Trends 跨平台反查情报矩阵 (借鉴 akvise/trends-checker)
+python3 scripts/trends_breakout_tracker.py --keyword "magnesium glycinate" --geo US
+
+# C. 批量为 50 款雷达爆品生成全平台追踪链接
+python3 scripts/trends_breakout_tracker.py --file data/trending-dtc-radar.json
+```
+
+### 推荐配合使用的开源核心项目
+1. **Meta Ads Library**: [`RamsesAguirre777/facebook-ads-library-mcp`](https://github.com/RamsesAguirre777/facebook-ads-library-mcp) (267 ⭐) — 无需官方 Token，直接利用 MCP 协议在 Cursor/Antigravity 中查询投放中广告寿命与素材；
+2. **Shopify 独立站抓取**: [`lagenar/shopify-scraper`](https://github.com/lagenar/shopify-scraper) (178 ⭐) & [`samoculus/Shopify-Scraper`](https://github.com/samoculus/Shopify-Scraper) (35 ⭐) — 监控竞品站 `/products.json` 与断货补货动向；
+3. **Google Trends 异动监控**: [`akvise/trends-checker`](https://github.com/akvise/trends-checker) (395 ⭐) & [`GeneralMills/pytrends`](https://github.com/GeneralMills/pytrends) (3726 ⭐) — 防 429 速率限制退避，提取 Breakout 飙升长尾词；
+4. **Amazon 畅销与飙升榜**: [`omkarcloud/amazon-scraper`](https://github.com/omkarcloud/amazon-scraper) (241 ⭐) & [`tducret/amazon-scraper-python`](https://github.com/tducret/amazon-scraper-python) (878 ⭐) — 免代理免 Key 提取 Movers & Shakers 飙升榜；
+5. **TikTok 爆款监控**: [`drawrowfly/tiktok-scraper`](https://github.com/drawrowfly/tiktok-scraper) (5206 ⭐) & [`amekala/ads-mcp`](https://github.com/amekala/ads-mcp) (97 ⭐) — 视频热度与带货声音/标签跟踪。
+
+---
+
+## 8. 仓库架构与快速上手 / Repository Architecture & Quickstart
 
 ```text
 dtc-product-intelligence/
 ├── README.md                                  # 双语旗舰项目白皮书与全域选品架构
+├── SKILL.md                                   # Antigravity/Agent 标准选品技能规范
 ├── LICENSE                                    # MIT 开源许可证
 ├── .gitignore                                 # Git 忽略配置
 ├── data/
@@ -180,7 +205,9 @@ dtc-product-intelligence/
 │   ├── trending-dtc-radar.json                # 50大精选爆品库 (7d/14d/30d/60d/90d 完整结构化数据)
 │   └── dtc-scoring-model.json                 # DVI 算法权重、评分门槛与硬性排查红线
 ├── scripts/
-│   └── dtc_product_radar.py                   # 零依赖 Python CLI 爆品雷达与研报生成工具
+│   ├── dtc_product_radar.py                   # 零依赖 Python CLI 爆品雷达与研报生成工具
+│   ├── shopify_store_spy.py                   # Shopify 竞品独立站畅销款与定价分析脚本
+│   └── trends_breakout_tracker.py             # Google Trends / Meta / TikTok 跨平台反查追踪器
 ├── reports/
 │   ├── 2026-q4-2027-q1-dtc-winning-products.md# 详尽的季度 DTC 选品白皮书 (全量数据与供应链产地)
 │   └── exported-brief-7d.md                   # 导出的 7D 选品简报
