@@ -168,9 +168,9 @@ python3 scripts/dtc_product_radar.py --export-brief --horizon 14d
 
 ---
 
-# 7. 融入的开源项目与情报采集工具 / Open-Source Spy & Radar Tools
+# 7. 融入的开源项目与情报采集/广告生成工具 / Open-Source Spy & Ad Tools
 
-本项目融合了 GitHub 上最优秀的开源爬虫、MCP 协议与选品工具链设计：
+本项目深度吸收了 GitHub 顶尖的开源爬虫、MCP 协议与 AI 广告生成工具链：
 
 ```bash
 # A. 窥探任意 Shopify 独立站竞品畅销榜与定价 (借鉴 lagenar/shopify-scraper)
@@ -179,16 +179,21 @@ python3 scripts/shopify_store_spy.py --url https://<competitor-shopify-domain>.c
 # B. 生成单个爆款的 Meta / TikTok / Amazon / Google Trends 跨平台反查情报矩阵 (借鉴 akvise/trends-checker)
 python3 scripts/trends_breakout_tracker.py --keyword "magnesium glycinate" --geo US
 
-# C. 批量为 50 款雷达爆品生成全平台追踪链接
-python3 scripts/trends_breakout_tracker.py --file data/trending-dtc-radar.json
+# C. 生成 TikTok 30秒高转化 UGC 分镜脚本与 4 组 3 秒黄金 Hook (借鉴 tarxn/tiktok-ads-scraper)
+python3 scripts/tiktok_ugc_hook_generator.py --sku DTC-7D-01
+
+# D. 生成 ChatGPT Ads / SearchGPT 对话式搜索广告并严格校验字符合规 (借鉴 fseixas/chatgpt-ads-builder)
+python3 scripts/chatgpt_ad_builder.py --sku DTC-7D-01
 ```
 
 ### 推荐配合使用的开源核心项目
-1. **Meta Ads Library**: [`RamsesAguirre777/facebook-ads-library-mcp`](https://github.com/RamsesAguirre777/facebook-ads-library-mcp) (267 ⭐) — 无需官方 Token，直接利用 MCP 协议在 Cursor/Antigravity 中查询投放中广告寿命与素材；
-2. **Shopify 独立站抓取**: [`lagenar/shopify-scraper`](https://github.com/lagenar/shopify-scraper) (178 ⭐) & [`samoculus/Shopify-Scraper`](https://github.com/samoculus/Shopify-Scraper) (35 ⭐) — 监控竞品站 `/products.json` 与断货补货动向；
-3. **Google Trends 异动监控**: [`akvise/trends-checker`](https://github.com/akvise/trends-checker) (395 ⭐) & [`GeneralMills/pytrends`](https://github.com/GeneralMills/pytrends) (3726 ⭐) — 防 429 速率限制退避，提取 Breakout 飙升长尾词；
-4. **Amazon 畅销与飙升榜**: [`omkarcloud/amazon-scraper`](https://github.com/omkarcloud/amazon-scraper) (241 ⭐) & [`tducret/amazon-scraper-python`](https://github.com/tducret/amazon-scraper-python) (878 ⭐) — 免代理免 Key 提取 Movers & Shakers 飙升榜；
-5. **TikTok 爆款监控**: [`drawrowfly/tiktok-scraper`](https://github.com/drawrowfly/tiktok-scraper) (5206 ⭐) & [`amekala/ads-mcp`](https://github.com/amekala/ads-mcp) (97 ⭐) — 视频热度与带货声音/标签跟踪。
+1. **TikTok Ads 广告谍报与投放**: [`tarxn/tiktok-ads-scraper`](https://github.com/tarxn/tiktok-ads-scraper) (15 ⭐) & [`amekala/ads-mcp`](https://github.com/amekala/ads-mcp) (97 ⭐) — 抓取 TikTok 在投广告寿命、互动率与受众；
+2. **TikTok 爆款与标签趋势**: [`drawrowfly/tiktok-scraper`](https://github.com/drawrowfly/tiktok-scraper) (5206 ⭐) & [`lofe-w/tiktok-creative-center-scraper-public`](https://github.com/lofe-w/tiktok-creative-center-scraper-public) — 监控 Creative Center Top Ads 与 `#tiktokmademebuyit` 飙升视频；
+3. **ChatGPT Ads 对话式广告生成**: [`fseixas/chatgpt-ads-builder`](https://github.com/fseixas/chatgpt-ads-builder) (10 ⭐) & [`alphaparkinc/genpark-ad-copy-generator-skill`](https://github.com/alphaparkinc/genpark-ad-copy-generator-skill) (9 ⭐) — 严格执行 OpenAI 广告规范（Headline ≤ 35 字符，Description ≤ 67 字符，Context Hints 对话触发词）；
+4. **Meta Ads Library 广告生命周期**: [`RamsesAguirre777/facebook-ads-library-mcp`](https://github.com/RamsesAguirre777/facebook-ads-library-mcp) (267 ⭐) — 免官方 Token 抓取 Facebook 广告在投存活时长与素材角度；
+5. **Shopify 独立站产品抓取**: [`lagenar/shopify-scraper`](https://github.com/lagenar/shopify-scraper) (178 ⭐) & [`samoculus/Shopify-Scraper`](https://github.com/samoculus/Shopify-Scraper) (35 ⭐) — 监控竞品站 `/products.json` 与断货补货动向；
+6. **Google Trends 异动监控**: [`akvise/trends-checker`](https://github.com/akvise/trends-checker) (395 ⭐) & [`GeneralMills/pytrends`](https://github.com/GeneralMills/pytrends) (3726 ⭐) — 防 429 速率限制退避，提取 Breakout 飙升长尾词；
+7. **Amazon 畅销与飙升榜**: [`omkarcloud/amazon-scraper`](https://github.com/omkarcloud/amazon-scraper) (241 ⭐) & [`tducret/amazon-scraper-python`](https://github.com/tducret/amazon-scraper-python) (878 ⭐) — 免代理免 Key 提取 Movers & Shakers 飙升榜。
 
 ---
 
@@ -207,7 +212,9 @@ dtc-product-intelligence/
 ├── scripts/
 │   ├── dtc_product_radar.py                   # 零依赖 Python CLI 爆品雷达与研报生成工具
 │   ├── shopify_store_spy.py                   # Shopify 竞品独立站畅销款与定价分析脚本
-│   └── trends_breakout_tracker.py             # Google Trends / Meta / TikTok 跨平台反查追踪器
+│   ├── trends_breakout_tracker.py             # Google Trends / Meta / TikTok 跨平台反查追踪器
+│   ├── tiktok_ugc_hook_generator.py           # TikTok 30s UGC 分镜脚本与 4 组 3 秒黄金 Hook 生成器
+│   └── chatgpt_ad_builder.py                  # ChatGPT Ads / SearchGPT 对话式广告生成与字符合规校验器
 ├── reports/
 │   ├── 2026-q4-2027-q1-dtc-winning-products.md# 详尽的季度 DTC 选品白皮书 (全量数据与供应链产地)
 │   └── exported-brief-7d.md                   # 导出的 7D 选品简报
