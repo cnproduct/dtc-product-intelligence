@@ -58,6 +58,7 @@ flowchart TD
 | **东南亚市场 (Shopee/Lazada)** | [`paulodarosa/shopee-scraper`](https://github.com/paulodarosa/shopee-scraper) (49 ⭐)<br/>[`isaacgalmeida/shopee-scraper`](https://github.com/isaacgalmeida/shopee-scraper) (5 ⭐) | **虾皮/Lazada 流量捕获**：适配印尼语 (ID)、泰语 (TH)、越南语 (VI)，突出 **Gratis Ongkir Xtra 免运费券**、**Bayar di Tempat (COD)** 与抗热带高温潮湿特性。 |
 | **欧洲本土垄断平台 (Allegro/Otto)**| [`allegro/allegro-api`](https://github.com/allegro/allegro-api) (246 ⭐) | **波兰与德法本土霸主穿透**：波兰 Allegro 必须挂载 **Allegro Smart!** 免运；德国 Otto/Kaufland 严守 **TÜV/CE/GS 安全认证** 与 **Kauf auf Rechnung (账单后付)**；法国强制遵守 **Triman 垃圾分类标与维修评分**。 |
 | **日韩本土平台 (Rakuten/Coupang)**| 日本乐天与韩国 Coupang 架构 | **极致精致与火箭配送**：日本乐天突出 **楽天ポイント (Rakuten Points) 5倍积分** 与极度严谨敬语；韩国 Coupang 突出 **로켓배송 (Rocket Delivery) 晨间送达**。 |
+| **俄罗斯与独联体 (Ozon/WB)**| [`pythontoday/ozon_scraper`](https://github.com/pythontoday/ozon_scraper) (41 ⭐)<br/>[`aknikolaeva/Wildberries-Scraper`](https://github.com/aknikolaeva/Wildberries-Scraper) | **俄语区双雄选品与广告本地化**：针对 Ozon 与 Wildberries 适配俄语原生文案、卢布 (RUB) 梯队定价、Ozon 卡 5-10% 优惠、SBP 极速支付、ПВЗ 自提点履约与耐低温 (-30°C) 卖点；店铺级批量搬家与上架由专用 `ozon-to-wb-fast-listing` 工具协同承接。 |
 | **Meta Ad Library** | [`RamsesAguirre777/facebook-ads-library-mcp`](https://github.com/RamsesAguirre777/facebook-ads-library-mcp) (267 ⭐) | **MCP 原生免 Token 抓取**：利用 headless DOM 解析广告存活天数。凡投放超过 14 天且在投素材 ≥ 5 条的广告，ROI 确定性极高。 |
 | **Shopify 独立站** | [`lagenar/shopify-scraper`](https://github.com/lagenar/shopify-scraper) (178 ⭐) | **公共端点穿透**：直接拉取标杆站 `/collections/all/products.json?sort_by=best-selling`，秒级解析上新频率与热销排行。 |
 | **TikTok Ads 广告与趋势** | [`tarxn/tiktok-ads-scraper`](https://github.com/tarxn/tiktok-ads-scraper) (15 ⭐)<br/>[`drawrowfly/tiktok-scraper`](https://github.com/drawrowfly/tiktok-scraper) (5206 ⭐) | **广告寿命监控与视频爆款**：提取广告投放天数与 `#tiktokmademebuyit` 飙升视频。 |
@@ -115,6 +116,7 @@ $$
 - **东南亚**: 印尼语/泰语/越南语；Gratis Ongkir 免运券，COD，双位数大促狂欢节。
 - **欧洲本土**: 波兰语/德语/法语；Allegro Smart! 柜取，TÜV/CE 认证，Kauf auf Rechnung。
 - **日韩**: 日语/韩语；乐天 Super Points 5倍，Coupang Rocket 晨间配送，微米级品质保证。
+- **俄罗斯与独联体**: 俄语 (RU)；Ozon 卡 5-10% 立减，SBP 极速支付，近邻自提点 (ПВЗ) 取件，耐低温防冻特性 (-30°C / -40°C)，EAC 认证与俄罗斯诚实标签。针对店铺商品搬家与批量上架可协同调用专用 `ozon-to-wb-fast-listing` 工具。
 
 ---
 

@@ -202,7 +202,8 @@ python3 scripts/regional_market_localizer.py --sku DTC-7D-01 --region all
 7. **Meta Ads Library 广告生命周期**: [`RamsesAguirre777/facebook-ads-library-mcp`](https://github.com/RamsesAguirre777/facebook-ads-library-mcp) (267 ⭐) — 免官方 Token 抓取 Facebook 广告在投存活时长与素材角度；
 8. **Shopify 独立站产品抓取**: [`lagenar/shopify-scraper`](https://github.com/lagenar/shopify-scraper) (178 ⭐) — 监控竞品站 `/products.json` 与断货补货动向；
 9. **Google Trends 异动监控**: [`akvise/trends-checker`](https://github.com/akvise/trends-checker) (395 ⭐) & [`GeneralMills/pytrends`](https://github.com/GeneralMills/pytrends) (3726 ⭐) — 防 429 速率限制退避，提取 Breakout 飙升长尾词；
-10. **Amazon 畅销与飙升榜**: [`omkarcloud/amazon-scraper`](https://github.com/omkarcloud/amazon-scraper) (241 ⭐) & [`tducret/amazon-scraper-python`](https://github.com/tducret/amazon-scraper-python) (878 ⭐) — 免代理免 Key 提取 Movers & Shakers 飙升榜。
+10. **Amazon 畅销与飙升榜**: [`omkarcloud/amazon-scraper`](https://github.com/omkarcloud/amazon-scraper) (241 ⭐) & [`tducret/amazon-scraper-python`](https://github.com/tducret/amazon-scraper-python) (878 ⭐) — 免代理免 Key 提取 Movers & Shakers 飙升榜；
+11. **俄罗斯与独联体 (Ozon/WB)**: [`pythontoday/ozon_scraper`](https://github.com/pythontoday/ozon_scraper) (41 ⭐) & [`aknikolaeva/Wildberries-Scraper`](https://github.com/aknikolaeva/Wildberries-Scraper) — 适配 Ozon 与 Wildberries 选品与俄语广告本地化（Ozon卡折扣、SBP支付、ПВЗ自提点），跨平台店铺批量上架由专用 `ozon-to-wb-fast-listing` 协同承接。
 
 ---
 
@@ -225,7 +226,7 @@ dtc-product-intelligence/
 │   ├── google_ads_builder.py                  # Google Ads 响应式搜索 (RSA) 与 PMax 广告生成脚本
 │   ├── tiktok_ugc_hook_generator.py           # TikTok 30s UGC 分镜脚本与 4 组 3 秒黄金 Hook 生成器
 │   ├── chatgpt_ad_builder.py                  # ChatGPT Ads / SearchGPT 对话式广告生成与字符合规校验器
-│   └── regional_market_localizer.py           # 全球 5 大本土区域本土平台与多语言本地化投放套件
+│   └── regional_market_localizer.py           # 全球 6 大本土区域(含Ozon/WB)本土平台与多语言本地化投放套件
 ├── reports/
 │   ├── 2026-q4-2027-q1-dtc-winning-products.md# 详尽的季度 DTC 选品白皮书 (全量数据与供应链产地)
 │   └── exported-brief-7d.md                   # 导出的 7D 选品简报

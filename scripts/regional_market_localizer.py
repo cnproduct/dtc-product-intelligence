@@ -87,6 +87,20 @@ REGIONAL_PROFILES = {
             "Japanese Polite Business Keigo Copy (安心・安全の国内サポート体制)"
         ],
         "compliance_notes": "PSE certification for electrical appliances in Japan; KC certification in South Korea."
+    },
+    "russia_cis": {
+        "region_name": "Russia & CIS (Ozon & Wildberries Ecosystem)",
+        "flagship_platforms": ["Ozon.ru (Top electronics & cross-border)", "Wildberries.ru (Top fashion & everyday goods)", "Yandex Market"],
+        "primary_ad_channels": ["Yandex Direct (Яндекс Директ)", "VK Ads (ВКонтакте)", "Ozon Trafarety (Трафареты)", "WB Auto Ads (АРК)"],
+        "languages": ["Russian (Русский - RU)"],
+        "critical_conversion_triggers": [
+            "Ozon Карта: Дополнительная скидка 5-10% (Exclusive Ozon Card discount price)",
+            "СБП (Система быстрых платежей): Оплата в 1 клик через СБП без комиссии (Fast Payment System)",
+            "Быстрая доставка в ПВЗ: Самовывоз из ближайшего пункта выдачи заказов СДЭК / Boxberry / Ozon (PVZ Pick-up points)",
+            "Морозостойкость и надежность: Работа при температуре до -30°C / -40°C (Frost-resistant for extreme winter climates)",
+            "Честный ЗНАК (Honest Sign): Соответствие обязательной национальной маркировке РФ"
+        ],
+        "compliance_notes": "EAC Declaration (Декларация ТР ТС) for electronics/toys/textiles; Chestny ZNAK mandatory digital marking."
     }
 }
 
@@ -105,7 +119,8 @@ def localize_product(product_name: str, brand: str = "Store", price_usd: float =
             "mena": f"{price_usd * 3.75:.0f} SAR / {price_usd * 3.67:.0f} AED",
             "sea": f"Rp {price_usd * 16000:,.0f} IDR / ฿{price_usd * 36:.0f} THB",
             "europe_local": f"€{price_usd * 0.92:.2f} EUR / {price_usd * 4.1:.0f} PLN",
-            "east_asia": f"¥{price_usd * 155:,.0f} JPY / ₩{price_usd * 1350:,.0f} KRW"
+            "east_asia": f"¥{price_usd * 155:,.0f} JPY / ₩{price_usd * 1350:,.0f} KRW",
+            "russia_cis": f"{price_usd * 92:,.0f} ₽ RUB"
         }
 
         # Localized ad copy hooks
@@ -129,6 +144,10 @@ def localize_product(product_name: str, brand: str = "Store", price_usd: float =
             "east_asia": [
                 f"【日本国内発送・1年保証】大人気 {product_name} が楽天ポイント5倍キャンペーン中！",
                 f"쿠팡 로켓배송 오늘 주문 내일 아침 도착! {product_name} 특가 세일 진행 중."
+            ],
+            "russia_cis": [
+                f"🔥 Хит продаж на Ozon и WB! {product_name} с быстрой доставкой в ближайший ПВЗ.",
+                f"Скидка по Ozon Карте! Оплата через СБП, гарантия качества и морозостойкая упаковка."
             ]
         }
 
@@ -174,7 +193,7 @@ if __name__ == "__main__":
     parser.add_argument("--product", help="Product name")
     parser.add_argument("--brand", default="Store", help="Brand name")
     parser.add_argument("--price", type=float, default=39.99, help="USD price")
-    parser.add_argument("--region", default="all", choices=["all", "latam", "mena", "sea", "europe_local", "east_asia"], help="Target region")
+    parser.add_argument("--region", default="all", choices=["all", "latam", "mena", "sea", "europe_local", "east_asia", "russia_cis"], help="Target region")
     parser.add_argument("--sku", help="Lookup SKU from data/trending-dtc-radar.json")
     parser.add_argument("--json", action="store_true", help="Output JSON")
     args = parser.parse_args()
