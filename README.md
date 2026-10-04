@@ -168,9 +168,9 @@ python3 scripts/dtc_product_radar.py --export-brief --horizon 14d
 
 ---
 
-# 7. 融入的开源项目与情报采集/广告生成工具 / Open-Source Spy & Ad Tools
+# 7. 融入的开源项目与情报采集/全渠道广告/本地化工具 / Open-Source Spy, Ads & Localization Tools
 
-本项目深度吸收了 GitHub 顶尖的开源爬虫、MCP 协议与 AI 广告生成工具链：
+本项目深度吸收了 GitHub 顶尖的开源爬虫、MCP 协议、Google Ads 套件与全球多语言本地化引擎：
 
 ```bash
 # A. 窥探任意 Shopify 独立站竞品畅销榜与定价 (借鉴 lagenar/shopify-scraper)
@@ -179,21 +179,30 @@ python3 scripts/shopify_store_spy.py --url https://<competitor-shopify-domain>.c
 # B. 生成单个爆款的 Meta / TikTok / Amazon / Google Trends 跨平台反查情报矩阵 (借鉴 akvise/trends-checker)
 python3 scripts/trends_breakout_tracker.py --keyword "magnesium glycinate" --geo US
 
-# C. 生成 TikTok 30秒高转化 UGC 分镜脚本与 4 组 3 秒黄金 Hook (借鉴 tarxn/tiktok-ads-scraper)
+# C. 生成 Google Ads 响应式搜索 (RSA 15标题/4描述) 与 PMax 素材组 (借鉴 itallstartedwithaidea/agent-skills)
+python3 scripts/google_ads_builder.py --sku DTC-7D-01
+
+# D. 生成 TikTok 30秒高转化 UGC 分镜脚本与 4 组 3 秒黄金 Hook (借鉴 tarxn/tiktok-ads-scraper)
 python3 scripts/tiktok_ugc_hook_generator.py --sku DTC-7D-01
 
-# D. 生成 ChatGPT Ads / SearchGPT 对话式搜索广告并严格校验字符合规 (借鉴 fseixas/chatgpt-ads-builder)
+# E. 生成 ChatGPT Ads / SearchGPT 对话式搜索广告并严格校验字符合规 (借鉴 fseixas/chatgpt-ads-builder)
 python3 scripts/chatgpt_ad_builder.py --sku DTC-7D-01
+
+# F. 生成全球 5 大本土区域与多语言本地化投放套件 (Mercado Libre, Noon, Shopee, Allegro, Rakuten/Coupang)
+python3 scripts/regional_market_localizer.py --sku DTC-7D-01 --region all
 ```
 
 ### 推荐配合使用的开源核心项目
-1. **TikTok Ads 广告谍报与投放**: [`tarxn/tiktok-ads-scraper`](https://github.com/tarxn/tiktok-ads-scraper) (15 ⭐) & [`amekala/ads-mcp`](https://github.com/amekala/ads-mcp) (97 ⭐) — 抓取 TikTok 在投广告寿命、互动率与受众；
-2. **TikTok 爆款与标签趋势**: [`drawrowfly/tiktok-scraper`](https://github.com/drawrowfly/tiktok-scraper) (5206 ⭐) & [`lofe-w/tiktok-creative-center-scraper-public`](https://github.com/lofe-w/tiktok-creative-center-scraper-public) — 监控 Creative Center Top Ads 与 `#tiktokmademebuyit` 飙升视频；
-3. **ChatGPT Ads 对话式广告生成**: [`fseixas/chatgpt-ads-builder`](https://github.com/fseixas/chatgpt-ads-builder) (10 ⭐) & [`alphaparkinc/genpark-ad-copy-generator-skill`](https://github.com/alphaparkinc/genpark-ad-copy-generator-skill) (9 ⭐) — 严格执行 OpenAI 广告规范（Headline ≤ 35 字符，Description ≤ 67 字符，Context Hints 对话触发词）；
-4. **Meta Ads Library 广告生命周期**: [`RamsesAguirre777/facebook-ads-library-mcp`](https://github.com/RamsesAguirre777/facebook-ads-library-mcp) (267 ⭐) — 免官方 Token 抓取 Facebook 广告在投存活时长与素材角度；
-5. **Shopify 独立站产品抓取**: [`lagenar/shopify-scraper`](https://github.com/lagenar/shopify-scraper) (178 ⭐) & [`samoculus/Shopify-Scraper`](https://github.com/samoculus/Shopify-Scraper) (35 ⭐) — 监控竞品站 `/products.json` 与断货补货动向；
-6. **Google Trends 异动监控**: [`akvise/trends-checker`](https://github.com/akvise/trends-checker) (395 ⭐) & [`GeneralMills/pytrends`](https://github.com/GeneralMills/pytrends) (3726 ⭐) — 防 429 速率限制退避，提取 Breakout 飙升长尾词；
-7. **Amazon 畅销与飙升榜**: [`omkarcloud/amazon-scraper`](https://github.com/omkarcloud/amazon-scraper) (241 ⭐) & [`tducret/amazon-scraper-python`](https://github.com/tducret/amazon-scraper-python) (878 ⭐) — 免代理免 Key 提取 Movers & Shakers 飙升榜。
+1. **Google Ads 广告套件**: [`itallstartedwithaidea/agent-skills`](https://github.com/itallstartedwithaidea/agent-skills) (skills/google-ads) & [`itallstartedwithaidea/google-ads-skills`](https://github.com/itallstartedwithaidea/google-ads-skills) (39 ⭐) — 12项 Google Ads 技能，全自动化 RSA 标题生成与 PMax 规划；
+2. **拉美电商美客多 (MELI)**: [`mercadolibre/python-sdk`](https://github.com/mercadolibre/python-sdk) (133 ⭐) — 适配墨西哥与巴西本土市场，深度整合 PIX 优惠与 Mercado Pago；
+3. **东南亚电商 (Shopee)**: [`paulodarosa/shopee-scraper`](https://github.com/paulodarosa/shopee-scraper) (49 ⭐) & [`isaacgalmeida/shopee-scraper`](https://github.com/isaacgalmeida/shopee-scraper) — 虾皮畅销品价格与销量抓取；
+4. **欧洲本土霸主 (Allegro)**: [`allegro/allegro-api`](https://github.com/allegro/allegro-api) (246 ⭐) — 波兰与东欧第一电商平台的 REST API 规范；
+5. **TikTok Ads 广告谍报与投放**: [`tarxn/tiktok-ads-scraper`](https://github.com/tarxn/tiktok-ads-scraper) (15 ⭐) & [`amekala/ads-mcp`](https://github.com/amekala/ads-mcp) (97 ⭐) — 抓取 TikTok 在投广告寿命、互动率与受众；
+6. **ChatGPT Ads 对话式广告生成**: [`fseixas/chatgpt-ads-builder`](https://github.com/fseixas/chatgpt-ads-builder) (10 ⭐) — 严格执行 OpenAI 广告规范（Headline ≤ 35 字符，Description ≤ 67 字符，Context Hints 对话触发词）；
+7. **Meta Ads Library 广告生命周期**: [`RamsesAguirre777/facebook-ads-library-mcp`](https://github.com/RamsesAguirre777/facebook-ads-library-mcp) (267 ⭐) — 免官方 Token 抓取 Facebook 广告在投存活时长与素材角度；
+8. **Shopify 独立站产品抓取**: [`lagenar/shopify-scraper`](https://github.com/lagenar/shopify-scraper) (178 ⭐) — 监控竞品站 `/products.json` 与断货补货动向；
+9. **Google Trends 异动监控**: [`akvise/trends-checker`](https://github.com/akvise/trends-checker) (395 ⭐) & [`GeneralMills/pytrends`](https://github.com/GeneralMills/pytrends) (3726 ⭐) — 防 429 速率限制退避，提取 Breakout 飙升长尾词；
+10. **Amazon 畅销与飙升榜**: [`omkarcloud/amazon-scraper`](https://github.com/omkarcloud/amazon-scraper) (241 ⭐) & [`tducret/amazon-scraper-python`](https://github.com/tducret/amazon-scraper-python) (878 ⭐) — 免代理免 Key 提取 Movers & Shakers 飙升榜。
 
 ---
 
@@ -213,8 +222,10 @@ dtc-product-intelligence/
 │   ├── dtc_product_radar.py                   # 零依赖 Python CLI 爆品雷达与研报生成工具
 │   ├── shopify_store_spy.py                   # Shopify 竞品独立站畅销款与定价分析脚本
 │   ├── trends_breakout_tracker.py             # Google Trends / Meta / TikTok 跨平台反查追踪器
+│   ├── google_ads_builder.py                  # Google Ads 响应式搜索 (RSA) 与 PMax 广告生成脚本
 │   ├── tiktok_ugc_hook_generator.py           # TikTok 30s UGC 分镜脚本与 4 组 3 秒黄金 Hook 生成器
-│   └── chatgpt_ad_builder.py                  # ChatGPT Ads / SearchGPT 对话式广告生成与字符合规校验器
+│   ├── chatgpt_ad_builder.py                  # ChatGPT Ads / SearchGPT 对话式广告生成与字符合规校验器
+│   └── regional_market_localizer.py           # 全球 5 大本土区域本土平台与多语言本地化投放套件
 ├── reports/
 │   ├── 2026-q4-2027-q1-dtc-winning-products.md# 详尽的季度 DTC 选品白皮书 (全量数据与供应链产地)
 │   └── exported-brief-7d.md                   # 导出的 7D 选品简报
